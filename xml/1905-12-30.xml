@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Celita Summa</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-19">2016-09-27</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-01-01">1905-12-30e</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="1">
+                <head>THE EGYPTIAN GAZETTE</head>
+                <head type="sub">No. 7239] ALEXANDRIA, SATURDAY, DECEMBER 30, 1905. [EIGHT PAGES P.T.
+                    1.
+                </head>
+                <div type="section" scope="advertisement">
+                </div>
+            </div>
+            <div type="page" n="2"> </div>
+            <div type="page" n="3">
+
+              <div>
+                <head>LOCAL AND GENERAL</head>
+
+              <p>Frost at Abbassieh.
+              Frost was recorded at Abbassieh yesterday
+              morning, the temperature being 2 Centigrade.</p>
+
+              <p>Diphtheria.
+              An outbreak of diphtheria has occurred at
+              Zeitoun and the schools have been closed.</p>
+
+              <p>The Charlotte.
+              The German corvette Charlotte is leaving
+              Alexandria for Italy at 2 o’clock this afternoon.</p>
+
+              <p>Tho Mahmal.
+              Ahmed Effendi Aref, of Mansourah, has been
+              appointed pharmacist to the medical staff
+              accompanying the Mahmal to Mecca.</p>
+
+              <p>New Years Gifts.
+              The establishment of Messrs. Walker and
+              Meimarachi in Old Bourse-street, Alexandria,
+              will be opened throughout to-morrow (Sunday)
+              for the convenience of the public.</p>
+
+              <p>Buried Alive.
+              A native workman of 30 years was digging
+              yesterday in a pit in Menascestreet, when he
+              was buried under a heavy mass of earth, which
+              fell upon him and asphyxiated him. His body
+              was afterwards extricated.</p>
+
+              <p>All Saints, Cairo.
+              By a notice in our advertising columns we
+              see that there will be midnight service and
+              celebration of Holy Communion at All Saints'
+              Church, Cairo, on Sunday next, beginning at
+              11.15 p.m.</p>
+
+              <p>Coal Imports.
+              From the 1st of January to the 28th inst.
+              1,042,768 tons of coal were imported into
+              Egypt. Wales sent 572,414, Newcastle 227,879,
+              Scotland 119,294, Yorkshire 78,636, and other
+              places 44,560 tons. During the same period
+              last year 1,050,482 tons were received.</p>
+
+              <p>Military Tournament.
+              A meeting under the presidency of Lieut.
+              Col. Markham, 1st Batt. Kings’ Royal Rifle
+              Corps, will be held at Headquarters, Cairo,
+              at 1.30 a.m. on Monday next, to consider
+              arrangements for the forthcoming Military
+              Tournament.</p>
+
+              <p>Concert at Parish-Room, Bulkeley.
+              A most successful and much appreciated con-
+              cert was held last night in the Parish Room,
+              Bulkeley. A large and representative audience
+              listened with evident delight to the songs, the
+              charming composition, "The Daisy Chain," and
+              the instrumental music, which, for an amateur
+              performance, was of a first class order. A full
+              account of this concert will appear in our next
+              issue.</p>
+
+              <p>The New Organ for St. George's.
+              Mr. John Davies, who erected the new
+              organ for H.B.M.’s Garrison Church of St
+              George, Mustapha Pasha, is deserving of the
+              highest praise tor the able way in which he has
+              put up the instrument. He is remaining a few
+              days in Alexandria, and will be glad to give
+              any information about the organs of the Posi-
+              tive Organ Company, who make small organs,
+              suitable for the drawing-room, as well as large
+              ones for cathedrals and churches. Mr. Davies
+              is going next week to Cairo, where his address
+              will be at the Hotel du Nil.</p>
+
+              <p>Merchant Seamen's Home.
+              The 'Xmas Treat given to the seamen in
+              port at the Merchant Seaman's Home yesterday
+              was a most brilliant affair from every point of
+              view, and 300 men sat down to dinner in two
+              relays. Pressure of space compels us to hold
+              over our account of the entertainment. Lady
+              Blomfield begs to acknowledge the following
+              subscriptions and presents for the feast: Mr.
+              Abdy, 10s. ; Mrs. Macaulay, £2 ; Mr. Chitty,
+              £1; Mr. Ambrose Ralli, £1; Admiral Sir Massie
+              Blomfield, £1; Mrs. Dickson £1; Mrs. Rees, 10s.;
+              Miss Walker, 1Os.; Mrs. Harry Barker, 5s.; Miss
+              Von Sommer,6s.; Mrs. Thomas Annet, 4s.; Mrs.
+              Barker, 2 turkeys; Hon. Mrs. Hopkinson,cakes;
+              Mrs.Harry Barker,plum pudding;Mr. Alderson,.
+              2turkeys ; Mrs. Grogan, cakes; Mr. and Mis.
+              Gould, tobacco ; Mrs. Morrison, cakes ; Mrs.
+              Kingham, 1 turkey: Mrs. Smith, 1 roastbeef ;
+              Mrs. Ward, cakes; Miss Demech, cakes ; Miss
+              Lias, cakes ; Mr. Barber, 1 ham ; Mr. Mellor,
+              3 tongues; Mr. Pappa, 1 ham; Mr. Caflari, 1
+              ham; Khedivial Mail Company, 1 ham, 1 roast-
+              beef, and 12 ’Xmas puddings; Mrs. John Ross,
+              greenery ; Ports and Lights Administration,
+              flags.</p></div>
+
+
+
+
+
+
+
+
+
+
+              MOERIS HOTEL
+
+              Isherwood’s Cairo Cigarettes.
+              The reputation which these Cigarettes have
+              gained in the past, stands unrivalled to-day,
+              because it is well-known that constant care
+              and Attention is devoted to supplying really
+              first-class Cigarettes only.
+
+              EDEN PALACE HOTEL
+
+              ANGLO-AMERICAN NILE STEAMERS
+
+              SPECIAL LATE CABLES.
+
+
+
+
+
+
+              <div>
+                <head>THE MOROCCO QUESTION.</head>
+              <head>FRANCE APPREHENSIVE</head>
+              <head>SERIOUS MILITARY PRECAUTIONS.</head>
+
+              (Gazette's Special Service.)
+              Paris, Saturday Dec. 30.
+              France is taking serious military precautions
+              in view of any unexpected upshot to the
+              Morocco Conference. The Kaiser's specific assu-
+              rances are coupled with his declaration "To
+              me alone does it belong to take a decision,”
+              and this is not considered reassuring.</div>
+
+              <div><head>LIBERAL REFORM OF ARMY.</head>
+              (Gazette's Special Service.)
+              London, Saturday, Dec. 30;
+              Mr. Haldane, the new War Minister, has
+              commenced by cancelling Mr. Arnold-Foster's
+              home-service battalion scheme and has suspend-
+              ed the late War Minister’s Volunteer project.</div>
+
+              <div><head>FAMINE IN JAPAN.</head>
+              (Gazette's Special Service.)
+              London, Saturday, Dec. 30.
+              The famine in Japan is reported to be very
+              serious.</div>
+
+              <div><head>DEATH OF MR. YERKES.</head>
+              (Gazette's Special Service.)
+              London, Saturday, Dec. 30.
+              Mr. Yerkes, the regenerator of urban rail-
+              ways and one of the greatest American finan-
+              ciers, has died at the Waldorf Astoria Hotel
+              in New York. Death was due to complete
+              physical collapse, brought on by overwork. He
+              was a great connoisseur of art and had a
+              superb palace of art treasures. The Press here
+              is strong in its appreciation of his character.</div>
+
+              <div><head>NEW YORK MONEY MARKET,</head>
+              (Gazette's Special Service.)
+              London, Saturday, Dec. 30.
+              Although day-to-day money in New York
+              has gone np to 195 %, this is an entirely arti-
+              ficial price, as stocks rose considerably yester-
+              day.</div>
+
+              <div><head>THE KHEDIVE.</head>
+              <p>The Khedive attended Friday prayers at
+              the Abou el Ela mosque and returned subse-
+              quently to Abdeen Palace, where he granted
+              some audiences.</p>
+
+              <p>While the Khedive was passing by Boulac-
+              street yesterday morning, on his way to the
+              mosque, a native woman made a scene by try-
+              ing to present his Highness with a petition,
+              shouting that she had been unjustly treated.
+              She was quieted by a policeman.</p>
+
+              <p>On Thursday, his Highness received General
+              Faradfallah Khan, late Persian Diplomatic
+              Agent at Cairo in audience, and yesterday re-
+              ceived the German Commissioner of the Public
+              Debt, Herr von Mohl, who had the honor to
+              present his elder son, Mr. Hans von Mohl,
+              lieutenant in the Imperial German Navy at
+              Kiel, on Christmas leave at Cairo.</p></div>
+
+              <div><head>THE GRAND CADI.</head>
+              <p>The complications in regard to the Grand
+              Cadiship of Egypt appear to be increasing.
+              For some unknown reason the family of the
+              newly-appointed Grand Cadi suddenly left
+              Alexandria for Constantinople on Wednesday,
+              and their unexpected departure has given rise
+              to considerable conjecture in native circles.</p>
+
+              <p>It is considered doubtful whether the Cadi
+              will return to Egypt.</p></div>
+
+              <div><head>NEW CAIRO BOURSE.</head>
+              <p>We understand that a financial group re-
+              cently put forward a scheme for the construc-
+              tion of a new Bourse at Cairo near the
+              Hammam, on a site belonging to the Société
+              Belge de l’Esbekieh, for which they had
+              acquired an option, which expires on 1st
+              January next. The scheme which was recently
+              put forward met with great opposition on the
+              part of most of the Cairo brokers, the majority
+              of whom signed and approved another scheme
+              to acquire a site for a new Bourse on land
+              belonging to the Société Immobilière d’Egypte.</p>
+
+              <p>We understand that there is no probability
+              of any settlement being arrived at between
+              the majority of the brokers and the supporters
+              of the first proposal for some little time.</p></div>
+
+              <div><head>ASILE RUDOLPH</head>
+              <p>To the Editor of the Egyptian Gazette.</p>
+
+              <p>Dear Sir,— Will you kindly permit me,
+              through the medium of your columns, to thank
+              the generous donors of funds and gifts in kind,
+              who, during the year now closing, have so
+              liberally contributed to the carrying on of the
+              work of the Home, and have by their kind
+              help enabled me to do far more for the poor
+              than I could have been accomplished without
+              their assistance.</p>
+
+              <p>Also to thank you, Mr. Editor, for allowing
+              me to make use of your columns to publicly
+              acknowledge the gifts.—I am, etc.,
+              P. Rudolph.
+              Alexandria, Dec. 30,</p></div>
+
+              <div><head>LA DOGARESSA.</head>
+
+              <head>M. SINADINO'S FIRST OPERA.</head>
+
+              <head>YESTERDAY’S DRESS REHEARSAL</head>
+
+              <p>It was yesterday our privilege to attend
+              the dress rehearsal of La Dogaressa, a 3-act
+              opera composed by M. N. Sinadino, with
+              the book by M. V. Sinano, both such promi-
+              nent members of Alexandrian society as to
+              need no farther introduction on our part.
+              This being as we understand, the composer’s
+              first opera, it was scarcely to be expected that
+              the result would be epoch-making and, while
+              the work shows no mean talent for compilation,
+              there is certainly a falling away on the side
+              of creative genius. We have here a produc-
+              tion replete with all the " outward and visible
+              signs ” of grand opera, its church scene with
+              the inevitable bells, its triumphal march, its
+              interspersion of ballet, and its tragic finale;
+              but all these ingredients are such as require
+              to be scored with sweeping power and vivid
+              contrast, and we venture to think that M.
+              Sinadino does not altogether meet these require-
+              ments. He has given us a wealth of dainty
+              music, full of delicate nuances and pleasing
+              romances, but it is clear that he has yet to
+              learn how to make full use of his orchestra
+              and how, in the heavier movements, to stimu-
+              late the senses and impart his message in
+              crisp and penetrating outbursts. He leads
+              up very well to the more involved passages
+              but has evident difficulty in sustaining the
+              " ensemble. " This feature is especially no-
+              ticeable in the first act, which to some degree
+              may be said to want life and firmness of pur-
+              pose ; it elicits some fair opportunities, inclu-
+              ding a quartet of marked merit, and introduces
+              the meeting and subsequent mutual passion of
+              tho Dogaressa (Signa. Bellincioni) and Stellio,
+              the Pisan Ambassador to Venice (Sig. J. Palet).</p>
+
+              <p>M. Sinadino is strongly imbued with a
+              Wagnerian tendency, and this influence is
+              displayed particularly throughout Act II,
+              which, while being unquestionably the best
+              act of the opera, is far too redolent of Tann-
+              hauser and Lohengrin to be set down as
+              purely intuitive; the distant trumpets and
+              the heralding of the Doge’s approach follow
+              too closely the huntsmen’s horns (Act I, Sc. 2)
+              and the clarions (Act III) in Tannhauser. Then
+              the chorus of Venetians denouncing Stellio
+              is very much on the lines of the climax of
+              Act III of the same opera, even to the positions
+              taken up by the performers. All this, however,
+              in no way detracts from the many exceedingly
+              good effects which M. Sinadino obtains in this
+              second act. The curtain rises to a graceful
+              minuet air, but with the appearance of the
+              Dogaressa, who has a pretty solo, the music
+              becomes more complex, with an undercurrent
+              of strong motif. The entry of the Doge
+              (Sig. Nicolay) is scored with much grandeur
+              and expression and requires only to be original
+              to be a true masterpiece. The scene, however,
+              is much too protracted; the populace start
+              to welcome their chiefs when he must be an
+              unconscionable distance off. There follows
+              then a sort of allegorical ballet, danced to
+              a valse movement and savouring somewhat
+              of Drury Lane. The act proceeds with the
+              discovery of Stellio’s indiscretions and his
+              consequent disgrace, and terminates with the
+              flight of the Dogaressa after her lover.</p>
+
+              <p>To Act III, there is a very beautiful over-
+              ture, exquisitely rendered under Sig. Zuccani’s
+              bâton. It is well orchestrated and proved one
+              of the finest portions of the opera. The scene is
+              now laid on the terrace of a Pallazzo by night
+              and we find the Dogaressa awaiting Stellio,
+              who arrives, rather tardily, and his retreat
+              having eventually been discovered, he is stabbed
+              by order of the Doge's men. To build a whole
+              act on such meagre foundations must, not un-
+              naturally, have taxed M. Sinadino to the utter-
+              most and, although he makes good use of a very
+              Wagnerian motif on the string instruments,
+              there are several drags, which not all Signa.
+              Bellineloni’s efforts, with the valuable aid of
+              Sig. Palet, could eliminate. True, each of them
+              have pleasing arias and the love duet rises to
+              a high pitch of efficiency ; but on the whole
+              (and this applies throughout the opera) the
+              situations are too thin and few to justify the
+              length of the action, and either big cuts or
+              an elaboration of the plot are needed before
+              the intrinsic value of the work is to be gauged.
+              Signa Bellincioni, Sigri. Pallet and Nibolay,
+              no less than Maestro Zuccani, spared no pains
+              to give full effect to their several tasks, while
+              Signa. Zeppilli and Sig. Pasquale were well
+              cast for the respective roles of Bellarmo and
+              Bianca, the confidante. The chorus have not (
+              very lengthy work but what there was of it
+              was hard and proved rather too much for
+              them. We have no fault to find with the
+              ballet, whose dancing was as graceful as their
+              appearance. The mise-en-scene was very good,
+              though rather too ambitious for the interior
+              of St. Mark's (Act I) and the full expanse
+              of the Piazzetta (Act II) looks palpably unreal
+              when set in miniature on the Zizinia stage.</p>
+
+              <p>There was a large number of guests at the
+              rehearsal, and to judge by the warm approval
+              they expressed, we may safely forecast a big
+              success for to-night’s premiere.</p></div>
+
+              <div><head>NOTICE TO OUR READERS.</head>
+
+              Monday next being New Year’s Day, the
+              Egyptian Gazette will not be published on
+              that day.</div>
+
+
+
+
+
+              BERLITZ SCHOOLS OF LANGUAGES,
+
+
+
+
+
+
+              <div><head>NOTES FROM PORT SAID.</head>
+              <head>HOW 'XMAS WAS SPENT.</head>
+
+              <head>GREAT CHANGE IN CLIMATE.</head>
+              <p>(From our Correspondent).
+              Port Said, Thursday.
+              Asked his opinion of Port Said, Mark Twain
+              once remarked, "It is a good town—to be out
+              of !" This appears to have been the opinion of
+              many of the English residents during the
+              celebration of ’Xmas. For those who did not
+              leave the town for the gaieties of Cairo, there
+              were the usual dinners, smoking concerts,
+              dances, 'Xmas trees, and children’s parties.</p>
+
+              <p>Services were held on 'Xmas morning at the
+              various churches in the town. In the afternoon,
+              the patients of the Lady Strangford Hospital
+              were entertained by a conjuring performance
+              and variety concert, at which many of the
+              English residents were present.</p>
+
+              <p>The football match, Mr. Chessman’s Eleven
+              v. Maltese, ended in a draw, no goals being
+              scored on either side.</p>
+
+              <p>Following the spell of wet weather last week
+              we have experienced what might be almost
+              termed an English 'Xmas. Suez has had an
+              even more unique experience in having snow
+              on Mount Attaka. Old European residents in
+              the Canal say that there has been a great
+              change in the climate during the last twenty
+              or thirty years. Passengers coming from India
+              and China have been very much struck with
+              the change in the temperature, and not a few
+              have remarked that it is a foretaste of what
+              they will find in England.</p></div>
+
+              <div><head>PLENTY OF WARSHIPS.</head>
+
+              We have been quite inundated with war-
+              ships of late. H.M.S. Diana arrived here
+              last week, evidently with the intention of re-
+              maining for some time. On Tuesday morning,
+              H.M.S. Euryalus arrived from Australia, where
+              she has been stationed for the last two years.
+              Admiral Sir Arthur D. Fanahawe, late Com-
+              mander of the Australian Squadron, disem-
+              barked at Suez for Cairo, and re-embarked
+              today for Portsmouth.</div>
+
+              <div><head>RUSSIAN CRUISER.</head>
+              <p>The Russian cruiser Cesarevitch, part of the
+              crew of which mutinied in the Indian Ocean,
+              arrived here to-day. The Russian transport
+              Livonia, with part of the crew of the protected
+              cruiser Oleg, left on Tuesday evening for
+              Lihau.</p>
+
+              <p>The French cruiser which took out to Indo-
+              China the submarines Esturgeon and Perle,
+              also arrived to-day.</p>
+
+              <p>The Dutch cruiser Koenigen Wilhelmina
+              arrived from Algiers en route for the Dutch
+              East Indies.</p></div>
+
+              <div><head>REINFORCEMENTS FOR YEMEN.</head>
+              The Turkish transport Adana left for
+              Hodeidah with re-inforcements for Marshal
+              Faizi Pasha in his operations against the rebels
+              in the Yemen.</div>
+
+              <div><head>NEW P. & 0. LINER</head>
+              The new P. & 0. liner Delhi arrived at
+              Port Said on Tuesday evening, under the com-
+              mand of Capt. J.D. Andrews. Her engines have
+              8,000 h.p. with a speed of 18 knots. Among
+              the passengers was Lord Hawke, the famous
+              English cricketer.</div>
+
+              <div><head>DOCTOR REWARDED.</head>
+              Dr. Pressat, the well-known medical officer
+              of the Suez Canal Co., who carried out exten-
+              sive sanitary measures against malaria at
+              Ismailia, has received one of tho special prizes
+              awarded by the French Academy of Sciences
+              for his original work, "La paludisme et les
+              moustiques."</div>
+
+              <div><head>LUXOR</head>
+              <p>(From our Correspondent.)
+              Luxor, Thursday.</p>
+
+              <p>Never before at this time of the year has
+              Luxor been so fall of visitors.</p>
+
+              <p>On Sunday, 24th inst., the English Church
+              was well attended, and a most interesting
+              sermon was preached by the Rev. Professor
+              Sayce on 1 Cor. XIII. 9. "We know in part."
+              There were forty communicants on Christmas
+              Day at the two celebrations, and the preacher
+              was the Rev. A. W. Gross, chaplain, and the
+              offertory for the Luxor Hospital for Natives
+              amounted to 11.13.10. Bishop Potter, of New
+              York, celebrated on Dec. 27 (St. John’s Day).
+              Over one hundred visitors sat down to the
+              excellent fare provided at the Luxor Hotel on
+              Christmas Day, and the "small dance" in the
+              evening was well attended, and very enjoyable.</p>
+
+              <p>The Sporting Club held its first Gymkhana
+              of the season (in aid of the local charities)
+              to-day, and 80 Europeans paid for admis-
+              sion, while the natives from the town and
+              neighbourhood came, as usual, in great force.
+              The racing was excellent, and the committee
+              are to be congratulated on the arrangements
+              made for the amusement of guests and the
+              benefit of several worthy objects. The local police, ,
+              under the superintendence of the mrowan,
+              preserved the usual good order on the course
+              and its approaches.</p>
+
+              <p>The following was the programme:-
+              1	Bishareen Arab Race (Sack)
+              2	Native Water-Carriers’ Race
+              8 Ladies’ and Gentlemen’s Race.
+              4 Donkey Boys’ Race
+              5 Ladies’ and Gentlemen’s Goolah Pegging Race,
+              6	Buffalo	Race
+              7	Horse	Race    	Natives
+              6 Camel	Race</p>
+
+              <p>Messrs.	Western and Edleman were starters
+              and the judges were Rev. A. W. Gross, Dr.
+              Snowden, and Mr. Saville. Dr. Saunders was
+              clerk of the course.</p></div>
+
+              <div><head>THE SUCRERIES.</head>
+
+              <head>AFFAIR BEFORE TRIBUNAL.</head>
+
+              <head>PROPOSAL REGARDING CREDITORS.</head>
+
+              <p>The Sucreries case came up before the
+              Chambre des Faillites of the Cairo Mixed Tri-
+              bunal today. The Court was composed as
+              follows; president, Judge Tuck; assessors, Judge
+              Coghlan, Wierdels, Youssef Bey Aziz, and
+              Moh. Bey Rassim. M. Musséri was European
+              assessor and the Government was represented
+              by Bairam Bey.</p>
+
+              <p>Maitre Carton de Wiart informed the Tri-
+              bunal that the following proposal had been
+              accepted by the shareholders of the Sucreries:—</p>
+
+              <p>"All Creditors, except mortgaged and pri-
+              vileged creditors, are to get 80 per cent. of
+              their claims, payable in debentures, bearing 5
+              per cent interest from January. 1, 1910, and
+              redeemable in 60 years at 25 per cent. premium.
+              Up to January 1, 1910, the debenture holders
+              are to receive a minimum of 2 per cent interest,
+              guaranteed by sums deposited at the Banque
+              de France.”</p>
+
+              <p>Some discussion followed, the Court remark-
+              ing that these proposals had not been formally
+              put before it, and that the question of the
+              railway, etc, had not bean touched.</p>
+
+              <p>Maitre Carton de Wiart applied for a special
+              meeting of creditors to deal with these points,
+              and after further discussion the hearing was
+              postponed for a week.</p></div>
+
+              <div><head>REDUCTION IN POSTAL RATES.</head>
+
+              <p>The following reductions in postal rates
+              will come into force on January 1, 1906:</p>
+
+              <p>1.	The inland registration fee on corres-
+              pondence for Egypt and the Sudan will be
+              reduced from 10 ms. to 6 ms.</p>
+
+              <p>2.	The commission on inland money orders
+              will be reduced from 4 ms. to 3 ms. for
+              every LE. 1 or fraction thereof, the minimum
+              commission being 10 milliemes.</p></div>
+
+              <div><head>PAN-EGYPTIAN GAMES.</head>
+              Pan-Egyptian Games are to be held at
+              Cairo on the 9th, 10th, and 11th February
+              next, under the auspices of the Hellenic
+              Athletic Association "Iphitos" of Cairo, and
+              under the patronage of the Hellenic Diplomatic
+              Agent and Consul-General at Cairo. The games
+              will be for amateurs only, and invitations to
+              participate have been addressed to all the athle0
+              tic and sporting clubs in Egypt. The programme
+              of events is long and varied.</div>
+
+              <div><head>GHEZIREH PALACE HOTEL.</head>
+              <p>This hotel gave its first small dance of the
+              season on Thursday night, and despite all
+              the disadvantages of cold and distance, many
+              people braved the elements in order to be
+              present. The Ghezireh Palace has a great re-
+              putation for its dances and entertainments.
+              Indeed, no better background oould be found
+              for pretty frocks and uniforms than its gor-
+              geous halls and salons. Many dinner parties
+              had been arranged for Thursday, and covers
+              for over a hundred and twenty people had
+              been laid. Mr. Curphy was host to fourteen
+              guesrs, including the Hon. F. Morgan, the
+              Hon. and Mrs. C. James, Mr. and Mrs. Heller,
+              Mrs. Bailey, Mr. and Mrs. Rom, Miss Begg, ’
+              and Mr. Spooner. Col. Gordon was entertain-
+              ing Lieut. Col. Watson and Mr. Carter Wilson
+              among others, and at Sir Hugh Smiley’s
+              table were Capt. and Mrs. Rome and Crook-
+              shank Pasha. Lady Sampson had a party of
+              eight, among whom were Major Davidson and
+              other officers of the Royal Inniskilling Fusiliers.
+              Capt. Grant had a party of seven. Major
+              and Mrs. Winn were entertaining friends, as
+              also were Major Burnie, Mr. Horrold, Major
+              Hessia, Mr. von Mohl, Mr. Bennett, Mr. Bink-
+              ley, Capt. Wynham, and Mr. and Mlle Saber-
+              casseaux. Many other guests arrived after
+              dinner, and by ten o’clock dancing was in
+              full swing to the strains of most seductive
+              music.</p>
+
+              <p>Mrs. Rom was looking her best in white
+              net, the skirt having a deep flounce of white
+              satin, and a trimming in which silver tinsel
+              played an important part. The foil net bodice
+              terminated in a folded corselet and sash of
+              white satin. Miss Begg, who always has the
+              best of times, was wearing very pale pink
+              with lace insertions run through with pink
+              ribbon. Mrs. Rome, whose wedding made such a
+              sensation in the autumn, was in an artistic frock
+              of soft blue, with a touch of the same colour
+              in her hair. Mrs. Bailey was in pink, with an
+              old-world tucker in the corsage, and Mrs.
+              Heller was wearing a most becoming empire
+              gown of black chiffon with appliquées of shad-
+              ed pink roses on this skirt, and pink ribbons
+              threaded in the lace decollatage. Mrs. Winn
+              was in white, with many rufflings of ribbon and
+              much fine lace, and had a pink rose tucked in
+              her hair. Mrs. C. James was in turquoise blue
+              silk with a sash of shaded chené ribbon, with a
+              twist of blue threaded through her coiffure.
+              Mrs, Maclean was in black, but made over
+              white. Mrs. Allan Joseph brought Miss Joseph
+              and her two girl friends, the latter both in
+              white, while Miss Joseph was in pink crêpe-de-
+              chine. Supper was served at about midnight,
+              when over eighty refreshed themselves before
+              dancing out the remainder of the programme.</p></div>
+
+              <div><head>STEAMER MOVEMENTS.</head>
+
+              The Moss liner Rameses sailed yesterday
+              afternoon for Liverpool via Malta, with pas-
+              sengers, mails, and general cargo, including
+              4,606 bales cotton.</div>
+
+              <div><head>PERSONAL AND SOCIAL.</head>
+
+              <p>Prince Charles, Duke of Sudermania, the
+              second son of the Crown Prince of Sweden,
+              is arriving in Egypt on board a Swedish man-
+              of-war, which is due at Alexandria on the
+              5th January. On his arrival the Prince will
+              proceed to Cairo.</p>
+
+              <p>Prince Christian of Hesse, Captain Mayer,
+              and several of the officers of the German
+              corvette Charlotte were entertained to dinner
+              and a Christmas Tree fête at the German
+              Consulate, Alexandria, yesterday evening by
+              Herr Hellwig, the acting German Consul.</p>
+
+              <p>Lord de Clifford and party have reserved
+              rooms at the Savoy.</p>
+
+              <p>The Right Rev. C. Potter, Bishop of New
+              York, and party will be back at the Savoy
+              about the 15th January from Upper Egypt.</p>
+
+              <p>Mr. and Lady Victoria Machell came up
+              from Port Said by the 12.45 am. train to
+              Cairo on Thursday and were met by a
+              number of friends and colleagues of the Ad-
+              viser of the Ministry of the Interior at the Bab
+              el-Gedid station, where they arrived at 5 p.m.
+              to meet with a warm welcome.</p>
+
+              <p>Among other visitors staying at Ghe-
+              sireh Palace Hotel are Viscount and Vicount-
+              ess de Sinety, Admiral Sir Arthur Fan-
+              shawe, K.C.B., Colonel and Mrs Collingwood,
+              Mme I. de Brandys and family, Mr. and
+              Mrs. Pauling and party, Mr. and Mrs. Sparrow,
+              Mr. C. H. Luckham, R.N., Mr. and Mme Sis-
+              bercaseaux, M. de Borros, Mr. and Mrs. J. H.
+              Brockbank, Mr. and Mrs. Neville, Mr. Hamp-
+              son, Miss Leigh and Miss Berry, Miss Gee,
+              Mr. R. R. Beard.</p>
+
+              <p>Judge Heggen, of Mansourah, has arrived
+              at Mema House for a change of air.</p>
+
+              <p>Capt. H. B.Montagu and Capt. T. C. Wood,
+              of H.M.S. Diana, lying at Port Said, are
+              spending a few days at Mena House.</p>
+
+              <p>Col. Augustus Hill and Miss Hill, who have
+              been regular visitors to Mena House for many
+              years, and the Hon. Gerald Otho Fitzgerald,
+              accompanied by General Sir G. Fitzgerald, will
+              arrive shortly to spend the winter there.</p>
+
+              <p>This week’s arrivals at the Savoy Hotel,
+              Cairo, include: Mr. C. P. Beebe; Mr. Franklin
+              Beeba, Boston; Mr. and Mrs. Muggeridge,
+              London; Mr. and Mrs. G. F. London and party,
+              Glasgow; Mr. and Mrs. W. G. Van Horne,
+              Alexandria; Mr. F. A. Belleville, London;
+              Mr. Alexander Leith, London; The Misses P.
+              and D. Rogers, London; Major Hawker Bey,
+              Suakin ; Lady Oppenheimer, Frankfort; Mrs.
+              Spencer Ledyard, London; Mrs. Brigstoke,
+              Isle of Wight; Madame N. Gulbenkian, London;
+              Mr. Essayan, London; Mrs. York and Misses
+              York, London; Capt. and Mrs. C.K. Morgan,
+              Cairo; Mr. and Mrs. E. W. Roperts.</p>
+
+              <p>Lady Wraxall begs to thank all those who
+              so generously subscribed for her children’s
+              relief at Christmas, also Mrs. Robinson, for-
+              merly of the Scottish Mission, and Mr. W. T.
+              Whitfield, who raised the subscription on her
+              behalf.</p>
+
+              <p>Emin Bey, Turkish Consul General in
+              London, is staying in Cairo.</p>
+
+              <p>M. Michel Sinadino has contributed £1 to
+              the funds of the Rudolph Home as a dis-
+              pensation from paying New Year's visits.</p>
+
+              <p>Mr. and Mrs. Lang-Anderson and family are
+              going to Cairo to-day to pass the New Year
+              holidays at Shepheard’s.</p>
+
+              <p>The following passengers left by the Anglo-
+              American Company’s S. S. Mayflower for the
+              Nile trip yesterday:- Mr. and Mrs. M. J.
+              Lawrence, Herr Consul and Fran Martens, Mr.
+              and Mrs. Proppe, Mr. and Mme Roussella, Mr.
+              and Mrs. A. L. Mumm, Mr. and Mrs. Louis
+              Pennington, Mrs. John A. Wells, Mr. Jean-
+              naire, Mrs. Zachariai.</p></div>
+
+              <div><head>St. Mark’s, Alexandria.</head>
+              <p>On Sunday, December 31, Services will be as
+              under:</p>
+
+              <p>8 a.m. Holy Communion.
+              11 a.m. Matins, Litany and Sermon.
+              6.15 p.m. Evensong and Sermon.</p>
+
+              <p>There will be no watch-night service, but at
+              the 6.15 p.m. service appropriate prayers will
+              be offered, and hymns for New Year's Eve
+              sung.</p>
+
+              <p>On New Year’s Day the services will be:
+              8 a.m. Holy Communion.
+              11 a.m. Morning Prayer and Address.</p></div>
+
+              <div><head>All Saints’ Church, Cairo.</head>
+              <p>On December 31 (1st Sunday after Christ-
+              mas) Services will be as under:</p>
+
+              <p>Holy Communion	8.30	a.m.
+              Morning Service	10.30	a.m.
+              Children's Service	3.30	p.m
+              Evening Service	6	p.m.
+              Midnight Service end Celebration of
+              Holy Communion	11.15	p.m.
+              January 1st, 1906.
+              Morning Service	10.30 a.m.
+              Holy Communion after morning service
+              CHARLES H. BUTCHER. Chaplain.</p></div>
+
+            </div>
+            <div type="page" n="4"> </div>
+            <div type="page" n="5"> </div>
+            <div type="page" n="6"> </div>
+        </body>
+    </text>
+</TEI>
