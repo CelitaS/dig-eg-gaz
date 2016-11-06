@@ -34,17 +34,30 @@
                 <head type="sub">No. 7377 ALEXANDRIA, TUESDAY, DECEMBER 26, 1905. [EIGHT PAGES P.T.
                     1. </head>
                 
+                <div type="item" scope="advertisement">
+                    <head>The Eastern Telegraph Company, Limited.</head>
+                    <p>This Company's system of submarine telegraph cables is the most direct and
+                        quickest means of communication from Egypt to Europe, North and South America,
+                        East, South and West Africa, India, Australia, New Zealand, China and Japan.</p>
+                    <p>To secure quick transmission, telegrams should be marked Via Eastern.</p>
+                    <p>For latest average time to London, see daily bulletin in this paper.</p>
+                    <p>STATIONS IN EGYPT: Alexandria, Cairo, Suez, Port-Tewfik, Port-Said, Suakin. Head
+                        Office. London.</p>
+                </div>
                 
                 
-                
-                
-                
-                
-                
-                
-                
-                EASTERN TELEGRAPH (etc1)
-                SWAN PENS
+                <div type="item" scope="advertisement">
+                    <p>Throw steel nibs away!</p>
+                    <p>They waste time, are costly to use,
+                        wear out, scratch, etc.</p>
+                    <p>Try a
+                    "SWAN" Fountain Pen.</p>
+                    <p>Prices from 10/6</p>
+                    <p>Sold by all Stationers and Importers
+                    in Cairo and Alexandria.</p>
+                    <p>Catalogue free.</p>
+                    <p>Mabie, Todd & Bard
+                    High Holborn, London</p></div>
                 
                 
                 
@@ -246,8 +259,11 @@
                 
                 
                 
-                
-                sio1 
+                <div type="item" scope="advertisement">
+                    <head>Sun Insurance Office,</head>
+                    <p>LONDON. Founded 1710.-Total sum insured in 1902 £487,600,000.</p>
+                    <p>Agents : LEON HELLER, Cairo, and BEHREND &amp; Co., Alexandria. 16-1-906</p>
+                </div>
                 
                 
                 <div type="item" scope="advertisement">
@@ -381,17 +397,126 @@
                 </div> 
                 
                 
+                <div type="item" scope="advertisement">
+                    <head>NEW KHEDIVIAL HOTEL, ALEXANDRIA.</head>
+                    <p>First-class Hotel. Situated in Rosetta Avenue, the finest quarter in the Town.
+                        Two mintes from Railway Station. Close to Conservatory and the Opera House.
+                        Lift. Electric Light Throughout. Perfect Sanitary Arragnements. Magnificent
+                        Ball, Reception, Reading, and Music Rooms. Bar and Smoking Room.</p>
+                    <p> HENRI CHAMOULLEAU, Proprietor.</p>
+                    <p>45</p>
+                    <p>FINE TERRACE ON THE AVENUE. - SPLENDID GARDEN. - OMNIBUS MEET ALL TRAINS AND
+                        STEAMERS. 28-26 </p>
+                </div>
+                
+                <div type="item" scope="advertisement">
+                    <head>PORT SAID-SAVOY HOTEL.</head>
+                    <p>NEW FIRST-CLASS HOTEL, OVERLOOKING THE HARBOUR &amp; OPPOSITE CUSTOM HOUSE</p>
+                    <p>Open all the year round. — Well-appointed Bar.</p>
+                    <p>MODERATE CHARGES. SPECIAL TERMS FOR RESIDENTS 1190A2-5 </p>
+                </div>
+                
+                <div type="item" scope="advertisement">
+                    <head>GUARDIAN ASSURANCE COMPANY, LIMITED,</head>
+                    <p>OF LONDON</p>
+                    <p>Established 1821.</p>
+                    <p>CAPITAL PAID UP AND INVERTED ONE MILLION STERLING.</p>
+                    <p>Annual Income . . £895,000.</p>
+                    <p>Total Funds . . £5,200,000.</p>
+                    <p>Agents far Egypt and the Sudan - HEWAT &amp; Co., Alexandria.</p>
+                    <p>24336--17-6-905</p>
+                </div>
                 
                 
-              
-              
-                nkh1 
-                pss1 
-                gac1 
-                lac1 
-                nfl1 
-                rea1 
-                nml1 
+                <div type="item" scope="advertisement">
+                    <head>LONDON ASSURANCE CORPORATION.</head>
+                    <p>072 Established 1720. - Agents: BANK OF EGYPT, Limited 189103 </p>
+                </div>
+                
+                
+                <div type="item" scope="advertisement">
+                    <head>NORTHERN FIRE AND LIFE ASSURANCE Coy.</head>
+                    <p>The undersigned agents are authorised to issue policies on behalf of the above
+                        Company at moderate rates.</p>
+                    <p>IMPERIAL OTTOMAN BANK, Alexandria. OTTO STERZING, Cairo. GEORG. MEINECKE, Suez.
+                        3112905</p>
+                </div>
+                
+                
+                <div type="item" scope="advertisement">
+                    <head>ROYAL EXCHANGE ASSURANCE.</head>
+                    <p>Incorporated A. D. 1720.</p>
+                    <p>Chief Office: ROYAL EXCHANGE, LONDON, E.C.</p>
+                    <p>FUNDS IN HAND EXCEED £4,500,000 CLAIMS PAID £40,000,000</p>
+                    <table rows="2" cols="2">
+                        <row role="label">
+                            <cell>FIRE</cell>
+                            <cell>MARINE</cell>
+                        </row>
+                        <row>
+                            <cell>ALEXANDRIA … ANGLO-EGYPTIAN BANK.</cell>
+                            <cell>ALEXANDRIA … Mr. J. B. CAFFARI</cell>
+                        </row>
+                        <row>
+                            <cell>CAIRO … Mr. J. B. CAFFARI</cell>
+                            <cell>SUEZ … Mr. GEO. MEINECKE.</cell>
+                        </row>
+                    </table>
+                    <p>21281-216905</p>
+                </div>
+                
+                
+                <div type="item" scope="advertisement">
+                    <head>THE NATIONAL MUTUAL LIFE ASSOCIATION OF AUSTRALASIA, LIMITED.</head>
+                    <p>ILLUSTRATION OF ENDOWMENT ASSURANCE LIFE POLICY.</p>
+                    <p>With Profits Distributed every 3 Years. </p>
+                    <p>Nearest Age 30.-Sun Assured £1,000.-Payable at age 50.</p>
+                    <p>ANNUAL PREMIUM £47:18:4 TOTAL COST £958:6:8</p>
+                    <p>Minimum Return Over Cost exclusive of Bonuses £41:13:4. Several options at the
+                        end of 20 years. Guaranteed benefits during 20 years.</p>
+                    <table rend="frame" xml:id="Table1">
+                        <row>
+                            <cell/>
+                            <cell cols="2">In the event of death.</cell>
+                            <cell rend="center">In the event of discontinuance.</cell>
+                        </row>
+                        <row>
+                            <cell>Years in force.</cell>
+                            <cell>Amount Contributed.</cell>
+                            <cell rend="center">Return Over Cost.</cell>
+                            <cell rend="center">Fully Paid up Assurance for</cell>
+                        </row>
+                        <row>
+                            <cell>5</cell>
+                            <cell rend="center">£239:11:8</cell>
+                            <cell rend="center">£760: 8:4</cell>
+                            <cell rend="center">£250: 0:0</cell>
+                        </row>
+                        <row>
+                            <cell>10</cell>
+                            <cell rend="center">£479: 3:4</cell>
+                            <cell rend="center">£520:16:8</cell>
+                            <cell rend="center">£500: 0:0</cell>
+                        </row>
+                        <row>
+                            <cell>15</cell>
+                            <cell rend="center">£718:15:0</cell>
+                            <cell rend="center">£281: 5:0</cell>
+                            <cell rend="center">£750: 0:0</cell>
+                        </row>
+                        <row>
+                            <cell>20</cell>
+                            <cell rend="justify">£958: 6:8</cell>
+                            <cell rend="justify">£41:13:4</cell>
+                            <cell rend="center"> Full sum payable.</cell>
+                        </row>
+                    </table>
+                    <p>Full particulars on application to</p>
+                    <p>AGENTS IN CAIRO:</p>
+                    <p>S. &amp; A. DE BILINSKI,</p>
+                    <p>Khedivial Bourse Court.</p>
+                    <p>LOW RATES. LIBERAL CONTRACTS. LARGE BONUSES.</p>
+                </div>
                 
                 <div type="item" scope="advertisement">
                     <head>BANK OF ATHENS, LIMITED.</head>
@@ -406,15 +531,13 @@
                 </div>
                 
                 
-                
-                
-                
-                
-                
-                bam1 
-                
-                
-                
+                <div type="item" scope="advertisement">
+                    <head>Bell's Asia Minor Steamship Co. </head>
+                    <p>Despatch weekly a steamer with good passenger accommodation carrying Mails from
+                        Alexandria to Cyrpus and the Syrian Coast and vice-versa.</p>
+                    <p>For particulars of freight, passage, etc., apply to the Agent Ed. A. Minotte.
+                        1099-25.2.905</p>
+                </div>
                 
                 
                 
@@ -465,14 +588,81 @@
                 </div>
                 
                 
+                <div type="item" scope="advertisement">
+                    <head>SUDAN DEVELOPMENT &amp; EXPLORATION COMPANY, LIMITED</head>
+                    <p>KHARTOUM: CAIRO Office, Sharia Kasr-el-Nil.</p>
+                    <p>TRANSPORT DEPARTMENT. Six days White Nile Tourist Trip dep. Khartoum Tuesdays.
+                        Steamer plans may be seen and passages booked at all Cairo Tourist Agents. -
+                        Special Steamers for private charter. - Trips arranged and transport of goods
+                        undertaken to all places on White and Blue Niles within navigation limits.</p>
+                    <p>ENGINEERING DEPARTMENT. Shipyard for construction of sternwheel steamers, barges,
+                        stream, motor launches, etc. Contractors for supply and erection of all classes
+                        of machinery, buildings, irrigation pumps, etc.</p>
+                    <p>SOLE AGENTS FOR Dudbridges Oil Engines from 1 to 25 B.H.P. as supplied to Sudan
+                        Government. Seamless xxxxxxxxxxxxxxxxxxxxx</p>
+                </div>
                 
                 
-                
-                
-                
-                sde1 
-                isr1 
-                
+                <div type="item" scope="advertisement">
+                    <head>INTERNATIONAL SLEEPING AND RESTAURANT CARS COMPANY.</head>
+                    <table rows="2" cols="4">
+                        <row role="label">
+                            <cell cols="4"><hi rend="italic">Restaurant Car runs every day between Cairo
+                                &amp; Alexandria &amp; vice-versa</hi>.</cell>
+                        </row>
+                        <row>
+                            <cell>Depart. - Cairo</cell>
+                            <cell>6.35 p.m.</cell>
+                            <cell>Arrival - Alexandria</cell>
+                            <cell>10.0 p.m.</cell>
+                        </row>
+                        <row>
+                            <cell>Depart. - Alexandria</cell>
+                            <cell>6. 0 p.m.</cell>
+                            <cell>Arrival - Cairo</cell>
+                            <cell>9.20 p.m.</cell>
+                        </row>
+                    </table>
+                    <p>By the 10.15 p.m. train between Cairo and Alexandria and vice-versa a sleeping
+                        car is attached every night. Supplement 30 P.T. </p>
+                    <table rows="4" cols="4">
+                        <row role="label">
+                            <cell cols="4"><hi rend="italic">Daily Restaurant Car Service between Cairo,
+                                Ismailia, Port Said &amp; vice-versa</hi>.</cell>
+                        </row>
+                        <row>
+                            <cell>Depart. - Cairo</cell>
+                            <cell>11 a.m. &amp; 6.15 p.m.</cell>
+                            <cell>Depart. - Port Said</cell>
+                            <cell>11.55 a.m. &amp; 6.30 p.m.</cell>
+                        </row>
+                        <row>
+                            <cell>Arriv. - Ismailia</cell>
+                            <cell>2.23 p.m. &amp; 9.28 p.m.</cell>
+                            <cell>Arriv. - Ismailia</cell>
+                            <cell>1.30 p.m. &amp; 8.12 p.m.</cell>
+                        </row>
+                        <row>
+                            <cell>Depart. - Ismailia</cell>
+                            <cell>2.28 p.m. &amp; 9.33 p.m.</cell>
+                            <cell>Depart. - Ismailia</cell>
+                            <cell>1.35 p.m. &amp; 8.17 p.m.</cell>
+                        </row>
+                        <row>
+                            <cell>Arriv. - Port Said</cell>
+                            <cell>5. 0 p.m. &amp; 11.10 p.m.</cell>
+                            <cell>Arriv. - Cairo</cell>
+                            <cell>5. 0 p.m. &amp; 11.25 p.m.</cell>
+                        </row>
+                    </table>
+                    <p>Restaurant and Sleeping Cars on Luxor trains:</p>
+                    <p>A Restaurant car and a sleeping car are attached to the 8 p.m. train from Cairo
+                        every Monday, Wednesday and Saturday and to the 5.30 p.m. train from Luxor every
+                        Tuesday, Thursday and Sunday.</p>
+                    <p>Railway and Sleeping Car tickets can be obtained any number of days ahead at the
+                        office of the International Sleeping Car Company in Cairo Station. 1st class
+                        Cairo-Luxor P.T. 200. Sleeping Car supplement P.T. 75.</p>
+                </div>
                 
                 
                 
@@ -493,14 +683,84 @@
                 </div>
                 
                 
+                <div type="item" scope="advertisement">
+                    <head>John B. Caffari's "Economical Stores"</head>
+                    <p>Cairo and Alexandria</p>
+                    <p>The Perfection of Quality and Value.</p>
+                    <p>In Sterling Silver, "Welbeck" &amp; Silver Plated Goods</p>
+                    <p>Provisions, Wines, Cigars, Crockery, Brushes, &amp;c., &amp;c., at</p>
+                    <p>Price List on Application.</p>
+                    <p>16-11-904</p>
+                </div>
                 
                 
-                jbc2 
-                ssw1 
-                hdr1 
-                nsa2 
-                twh1 
-                AMERICAN SEWING 
+                <div type="item" scope="advertisement">
+                    <head>Siemens Schukert Werke</head>
+                    <p>Cairo Branch</p>
+                    <p>General Agent: Gustav Grob, E. E.</p>
+                    <p>Electrical Machines &amp; Materials.</p>
+                    <p>Kasr-El-Nil Street, Suares Building, Opposite the Bank of Egypt.</p>
+                    <p>P.O.B. 855.</p>
+                    <p>Telephone 811</p>
+                    <p>85240-15-1-906</p>
+                </div>
+                
+                
+                <div type="item" scope="advertisement">
+                    <head>H. D. Rawlings, Limited.</head>
+                    <p>Soda Water, Lemonade, &amp; Ginger Ale.</p>
+                    <p>As Supplied to King and Royal Family.</p>
+                    <p>Agent: - John B. Caffari.</p>
+                </div>
+                
+                
+                <div type="item" scope="advertisement">
+                    <head>N. SPATHIS</head>
+                    <p>THE BRITISH AERATED &amp; MINERAL WATER MANUFACTORY. </p>
+                    <p>CAIRO Exbekieh ALEXANDRIA Rue Avernoff</p>
+                    <p>Soda Water. Lemonade, Ginger Ale, Ginger Beer. Tonic Water </p>
+                    <p>Pomegranade, Orangeaade, Pineapple, Champagne, Cider, etc., etc. </p>
+                    <p> Water guaranteed by Chamberlain’s Filter (Pasteur’s System).</p>
+                    <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for use.</p>
+                    <p> Sole Agents in Egypt and Soudan for </p>
+                    <p> J. Calvet &amp; Co. Bordeaux. Wine &amp; Cognacs.</p>
+                    <p>Louis Roederer. Rheims. Champagnes.</p>
+                    <p>August Engel. Wiesbaden. Rhine and Moselle Wines.</p>
+                    <p>Mackie &amp; Co. Glasgow. Lagavulin, White Horse Cellar &amp; other Whiskies.</p>
+                    <p>Dunville &amp; Co, Ltd. Belfast. Old Irish Whiskies.</p>
+                    <p>Wm. Lanahan &amp; Son. Baltimore. Monongshels XXXX Whiskey.</p>
+                    <p>The Cook &amp; Bernheimer Co. New York. Old Valley Whiskey and Gold Lion
+                        Cocktails.</p>
+                    <p>Stone &amp; Son. London. Guinness' Stout &amp; Bass' Pale Ale.</p>
+                    <p>Freund Ballor &amp; Co. Tornio. Vermouth.</p>
+                    <p>Pierre Bisset. Cette. Vermouth &amp; Aperitives.</p>
+                    <p>Terrabonatea Company, Ld. Teas.</p>
+                    <p>Depot for Prince Metternich's "Richardsquelle," the best mineral table water in
+                        the world.</p>
+                    <p>Great assortment of Wines, Spirits, Liqueurs, of the finest Brands, etc</p>
+                </div>
+                
+                
+                <div type="item" scope="advertisement">
+                    <head>The Tosh Whisky</head>
+                    <p>Established 1726.</p>
+                    <p>Mackintosh &amp; C. Inverness.</p>
+                    <p>Agents: M. Eleftherion &amp; Co. Cairo &amp; Alexandria.</p>
+                    <p>Retailers. E. J. Fleurent, Square Halim Pacha, Cairo.</p>
+                    <p>24527-14-8-905</p>
+                </div>
+                
+                
+                
+                <div type="item" scope="advertisement">
+                    <p>American</p>
+                    <p>Refrigerators 4 to 20- Desks, 5 to 25</p>
+                    <p>Typewriters, 5 to 20</p>
+                    <p>Sewing Machines 5 to 15</p>
+                    <p>The American Manufacturers Agency</p>
+                    <p>210 Bourse Street, Sursock Buildings</p>
+                    <p>Alexandria</p>
+                </div>
                 
                 
                 
@@ -535,19 +795,85 @@
                     <p> 246081-26-904</p>
                 </div>
                 
+                <div type="item" scope="advertisement">
+                    <head>Joseph Evans &amp; Sons.</head>
+                    <p>Culwell Works.</p>
+                    <p>Wolverhampton.</p>
+                    <p>Makers of PUMPS and Pumping Machinery For all Purposes.</p>
+                    <p>Irrigation Pumps.</p>
+                    <p>Mining Pumps.</p>
+                    <p>Boiler &amp; Pumps Combined.</p>
+                    <p>Centrifugal Pumps.</p>
+                    <p>Household Pumps.</p>
+                    <p>Telgrams: EVANS, Wolverhampton.</p>
+                    <p>Write for List No. 9.</p>
+                    <p>2516</p>
+                </div>
+                
+                
+                <div type="item" scope="advertisement">
+                    <head>For the voyage to Europe.</head>
+                    <p>TRAVELLERS generally, but especially Invalids and Children, should not be without
+                        HOWIE'S STERILIZED MILK OR CREAM. It is invaluable. Address. Howie &amp; Co.,
+                        Hygienic Dairy, Shoubra Road, Cairo.</p>
+                    <p>26029-25-5-906</p>
+                </div>
+                
+                
+                <div type="item" scope="advertisement">
+                   <head>Lancaster House, Cairo</head>
+                    <p>Sharia Babour El Moya</p>
+                    <p>Comfortable apartments, with or
+                        without board. Terms very reasonable.</p></div>
+                    
+                <div type="item" scope="advertisement">
+                    <head>Ind, Coope &amp; Co., Ltd.</head>
+                    <p>Brewers, Burton-on-Trent and Romford.</p>
+                    <p>Pale Ale &amp; Double Stout, specially brewed for export.</p>
+                    <p>Agents: Messrs. John Ross &amp; Co., Alexandria &amp; Cairo:</p>
+                    <p>48047  30-2-904</p>
+                </div>
+                    
+                    
+                    
+                </div>
+            
+            
+               <div type="item" scope="advertisement">
+                   <head>THE NATIONAL HOTEL, Cairo.</head>
+                   <p>One of the finest and most up-to-date Hotels in the Metropolis. Situated in Sharia
+                   Soliman Pasha, the very centre of the healthiest and most fashionable quarter. Stands in its
+                   own grounds with garden and lawn tennis grounds at back. Ocer 350 rooms and 5 saloons.
+                   Magnificent salle a manger. Handsome covered promenade verandah, 8 yards long. Highest
+                   class cuisine, electric light throughout, and lifts. English comforts. Rooms and apartments
+                   at prices to suit every one. For further particulars apply to General Manager, Cairo.</p></div></p>
+               </div>
+                <div type="item" scope="advertisement">
+                    <head>Grand Hotel Khartoum,
+                    Sudan.</head>
+                    <p>First-Class. Open all the year round.</p>
+                    <p>Thoroughly renovated and improved.</p>
+                    <p>Standing in a magnificent position in its own extensive grounds on the banks of the Blue Nile.
+                        Perfect climate, no mosquitos, modern comfort, very homely. Concerts twice a week on the
+                        verandah of the Hotel.</p>
+                    <p>Entirely new management.</p>
+                    <p>For accomodation please write or wire beforehand to Manager.</p>
+                    <p>G. Otto Bock, Manager.</p>
+                </div>
                 
                 
                 
-                
-               
-                jes1 
-                hsm1(?) 
-                lancaster house 
-                NATIONAL HOTEL 
-                GRAND HOTEL Khartoum
-                Savoy Hotel
-                
-                
+                <div type="item" scope="advertisement">
+                    <head>Savoy Hotel, Luxor (Upper Egypt)</head>
+                    <p>New first class hotel with every modern comfort</p>
+                    <p>Splendid situation on the Bank of the Nile, on the road to Karnak and within easy reach of Thebes
+                    Magnificent Views, Beautiful Surroundings, Garden, Spacious Terrace overlooking the River,
+                    Billiards Room, Smoking-Room, Reading-Room, Electric Light throughout.</p>
+                    <p>Restaurant open to Non-Residents. Moderate Charges.</p>
+                    <p>Omnibus and Prter meet all Trains and Steamers.</p>
+                    <p>Hotel Beau Rivage, Ramleh, Opening in March.</p>
+                    <p>G & M Runckewitz, Proprietors</p>
+                </div>
                 
                 
                 
@@ -566,15 +892,93 @@
                 
                 
                 
+                <div type="item" scope="advertisement">
+                 <head>Shepheard's Hotel</head>
+                    <p>The Premier Hotel in Egypt</p>
+                    <p>Restaurant & Grill-Room open also for residents.</p>
+                    <p>Motor-car running to Ghezireh Palace, and vice-versa.</p>
+                    
+                </div>
                 
-                Shepheard's Hotel
-                Mena House Hotel
-                Hotel Beau-Rivage
-                Grand COntinental Hotel
-                Upper Egypt Hotels
-                Hotel du Nil
-                Vaughan-Jones
-                perrier
+                
+            <div type="item" scope="advertisement">
+                <head>Cairo Mena House Hotel</head>
+                <p>First Class Family Hotel</p>
+                <p>Moderate Terms</p></div>
+              
+            <div type="item" scope="advertisement">
+                <head>Hotel Beau-Rivage.</head>
+                <p>Ramleh-Alexandria</p>
+                <p>15 Minutes by Carriage or "Palais tram from Sidi Gaber Station.</p>
+                <p>The most charming Sea-side Residence in Egypt.</p>
+                <p>First Class Family Hotel with Every Modern Comfort.</p>
+                <p>Unique Situation on the Beach.</p>
+                <p>Lovely Garden. Lawn Tennis. Large Terrace. Electric Light. Sea Baths. Own
+                    springs. Perfect sanitary arrangements. Stables for horses and carriages.</p>
+                <p>Moderate Charges. -- Special terms for Government Officials and Officers of the
+                    Army of Occupation.</p>
+                <p>252-17.1.906</p>
+                <p>G. RUNCKEWITZ, Proprietor.</p>
+            </div>
+            
+            <div type="item" scope="advertisement">
+                
+                <head>Grand Continental Hotel</head>
+                <p>open all the year. Unrivalled position in centre of Cairo, opposite Khedivial Opera House and Eskebieh Gardens.
+                    Magnificent Verandah, French Restaurant and Grill-room. Bars and Billiard Saloons open to non-residents. Supper
+                    after the theatre.</p>
+                <p>George Nungovich Hotels</p></div>
+            
+            <div type="item" scope="advertisement">
+                <head>Upper Egypt Hotels Co.</head>
+                <p>Luxor: Karnak Hotel, Luxor Hotel</p>
+                <p>Assouan: Cataract Hotel, Savoy Hotel, Grand Hotel Assouan</p></div>
+            
+            <div type="item" scope="advertisement">
+                <head>Hotel du Nil, Cairo.</head>
+                <p>The most quiet and comfortable first class hotel</p>
+                <p>Highest situation. Excellent cuisine. Restaurant a la Carte at all time. Recherche Lunch
+                    and Dinner served on the Open Air Verandahs and beautiful gardens of the Hotel.</p>
+                <p>Afternoon Tea. Visitors to the Saxaars should lunch here.</p>
+                <p>Charges Moderate.</p>
+            </div>
+                
+                <div type="item" scope="advertisement">
+                   <head>Vaughan-Jones' "Standard"</head> 
+                    <p>London Dry Gin.
+                        Orange Bitters.
+                        Sloe Gin.</p>
+                    <p>Old Tom Gin.
+                        Ginder Brandy.
+                        Cherry Brandy.</p>
+                    <p>And other finest liqueurs</p>
+                    <p>Of all wine merchants throughout Egypt</p>
+                    <p>Sole Export Agents: Charles Day & Co., Water Lane, London</p>
+                    
+                </div>
+                
+                
+                <div type="item" scope="advertisement">
+                    <head>Perrier</head>
+                    <p>"The Champagne of Table Waters"</p>
+                    <p> By appointment to 
+                    H.M. King Edward VII
+                    Supplied to the imperial
+                    Houses of Parliament</p>
+                    <p>By appointment to
+                        H.M. The King.
+                        Supplied to the imperial Houses of Parliament</p>
+                    <p>This Crisp, Invigorating Water, Sparkling with its Natural Gas, has had a phenomenal success in
+                    England. It has rapidly become the Predominant Water in all First-Class CLubs. Restaurants and Hotels.
+                    Recently it has received the honour of a Special Warrant of Appointment to H.M. King Edward VII.</p>
+                </div>
+            
+            
+            
+            
+            
+            
+            
                 sunlight soap
                 
                 
@@ -824,18 +1228,18 @@
                   Advertisements
                   are due in advance. P.O. orders and
                   cheques to be made payable to the
-                  Editor and Manager, ROWLAND
-                  SNELLING, Alexandria.</p>
-                    <p>London Offices-36, New Broad Street, E.C.</p>
+                  Editor and Manager, <persName>ROWLAND
+                  SNELLING</persName>, Alexandria.</p>
+                    <p><placeName>London Offices-36, New Broad Street, E.C.</placeName></p>
                     <p>The Egyptian Gazette can be obtained
                     in London at our offices, 36, New Broad
-                    Street, E.C., and also at Messrs. MAY &amp;
-                    WILLIAMS, 160. Piccadilly, W.</p>
+                    Street, E.C., and also at <placeName>Messrs. MAY &amp;
+                    WILLIAMS, 160. Piccadilly, W.</placeName></p>
                     <p>Cairo Offices-No. 1 Sharia Zervudachi, (opposit
                     Agricultural Bank.</p>
                     <p> Death
-                    MERKT. On December 19th, at Baden-Baden, Carl Wilhelm
-                    Markt, aged 27. Friends please accept this (the only) infor-
+                    MERKT. On December 19th, at Baden-Baden, <persName>Carl Wilhelm
+                        Markt</persName>, aged 27. Friends please accept this (the only) infor-
                     mation from his sorrowful wife.</p>
                 </div>
                 
@@ -866,8 +1270,8 @@
                         tion, in which the Government's share of the
                         profits amount to over L.E. 3,000,000, are all
                         discudded and are all well worth reading.</p>
-                    <p>There are two passages in Sir Vincent Cor-
-                    bett's Note which we venture to criticise. In
+                    <p>There are two passages in <persName>Sir Vincent Cor-
+                    bett</persName>'s Note which we venture to criticise. In
                     dealing with the question of speculation he
                     takes, we imagine, slightly pessimistic view
                     of the general effects of any reaction against
@@ -893,12 +1297,12 @@
                     to acknowledge that facts may yet prove us to
                     have underrated the evil and minimised the
                     danger. There is one other point which we
-                    should like to criticise. Sir Vincent Corbett
+                    should like to criticise. <persName>Sir Vincent Corbett</persName>
                     remarks, in dealing with salaries and pensions,
                     that "it will be no more possible to amass a
                     fortune in the Government service in the future 
                     than in the past." Did not Government officials
-                    in Ismad's days at times achieve the impos-
+                    in <persName>Ismad</persName>'s days at times achieve the impos-
                     sible> But perhaps that period may be regard-
                     ed as buried in oblivion, and the average offi-
                     cial who has not made fortunes in recent days
@@ -912,7 +1316,7 @@
                     Cinderella among the Government Depart-
                     ments is now being criticised because, having
                     come into millions, she does not expend every
-                    piastre of them at once. The FInancial Adviser
+                    piastre of them at once. The Financial Adviser
                     points out that our energetic importers forget
                     that there are taxpayers in whose defence the
                     authorities must attempt to get the best value
@@ -922,17 +1326,21 @@
                     she desired the instant she wedded the Prince,
                     the Railway Administration has to wait for
                     its quays to be widened, its lines to be doubled,
-                    and its warehouses to be built. Sir Vincent
-                    Corbett and his predecessors have done great
+                    and its warehouses to be built. <persName>Sir Vincent
+                    Corbett</persName> and his predecessors have done great
                     things, but they have not learnt to create build-
                     ings and public works by a stroke of the pen.</p>
                       
                       
                       
                       
-                
-                eden palace hotel
-                
+                <div type="item" scope="advertisement">
+                <head>Eden Palace Hotel</head>
+                <p>Cairo.</p>
+                    <p>Noted for its excellent cuisine.</p>
+                    <p>Electric Light, Lift.</p>
+                    <p>Special terms for officers of the army of Occupation and
+                    Government Officials</p></div>
             
             
             
@@ -950,26 +1358,26 @@
                     <p>(From our own Correspondent). Luxor, Sunday.</p>
 
                     <p>A discovery of the utmost importance has just been made by the well-known
-                        American Egyptologist, Mr. Theodore M. Davis, who has discovered in the
-                        valley of the Tombs of the Kings, the tomb of Mer-en Ptah, a pharaoh of the
+                        American Egyptologist, Mr. <persName>Theodore M. Davis</persName>, who has discovered in the
+                        valley of the <placeName>Tombs of the Kings</placeName>, the tomb of <persName>Mer-en Ptah</persName>, a pharaoh of the
                         19th dynasty. The tomb is beautifully painted, but no antiquities were
                         found.</p>
 
-                    <p>This pharaoh, who is also known as Meneptab, is thought by many to have been
-                        the pharaoh of the Exodus. His mummy was found in the tomb of Amenhotep II
+                    <p>This pharaoh, who is also known as <persName>Meneptab</persName>, is thought by many to have been
+                        the pharaoh of the Exodus. His mummy was found in the tomb of <persName>Amenhotep II</persName>
                         at Thebes. He suppressed the revolt of the Libyans, which broke out in the
                         fifth year of his reign. His "Hymn of Triumph" is out on the back of a large
-                        stele, which is now in the Egyptian Museum at Thebes.</p>
+                        stele, which is now in the <placeName>Egyptian Museum at Thebes</placeName>.</p>
                 </div>
                 <div type="item">
 
                     <head>LOCAL AND GENERAL.</head>
 
-                    <p>Benha Bridge. Owing to the low water, the Benha swing bridge over the Nile
+                    <p><placeName>Benha Bridge</placeName>. Owing to the low water, the Benha swing bridge over the <placeName>Nile</placeName>
                         will be closed for naviga- tion until 10th August, 1906.</p>
 
-                    <p>Sanitary Department. . Messrs. Najib Ayyub Abela, Najib F. Mishelany and Haim
-                        Menache, physicians, and M. Aristotle A. Kaos, pharmacist, have been
+                    <p>Sanitary Department. . Messrs. <persName>Najib Ayyub Abela</persName>, <persName>Najib F. Mishelany</persName> and <persName>Haim
+                        Menache</persName>, physicians, and <persName>M. Aristotle A. Kaos</persName>, pharmacist, have been
                         authorised to practise in Egypt.</p>
 
                     <p>Drinking the King's Health. The King has authorised Rear-Admiral King- Hall
@@ -983,11 +1391,11 @@
                     <p>Back from 
                         
                         . The troupe of Egyptian dancers and singers engaged last
-                        September to amuse the leisure hours of the Sultan of Morocco has returned.
+                        September to amuse the leisure hours of the <persName>Sultan of Morocco</persName> has returned.
                         Its members only wish their stay had been longer, not so the Moorish
                         taxpayer.</p>
 
-                    <p>Egyptian Medical Papyri. The Berlin Museum has acquired a valuable collection
+                    <p>Egyptian Medical Papyri. The <placeName>Berlin Museum</placeName> has acquired a valuable collection
                         of medical papyri, recently found in Egypt. They are said to include letters
                         of Hip- pocrates, and to bear testimony to the interest with which medicine
                         was studied under the Emperors.</p>
@@ -1002,12 +1410,12 @@
                         in respect of profits for the quarter ended September 30. The dividend was
                         the same last year.</p>
 
-                    <p> A L. M. & D. S. We may remind our readers that Dr. Ruffer, C. M. G.,
+                    <p> A L. M. & D. S. We may remind our readers that <persName>Dr. Ruffer</persName>, C. M. G.,
                         President of the Quarantine Board, is lecturing 5.30 o’clock this evening in
-                        the Parish Room, Bulkeley, on The Desert of Sinai." Mr. W. R. B. Briscoe, M.
+                        the <placeName>Parish Room, Bulkeley</placeName>, on The Desert of Sinai." <persName>Mr. W. R. B. Briscoe</persName>, M.
                         A., will take the chair.</p>
 
-                    <p>The Cavalry, Journal. Captain G. Gillson, R.A., has been appointed subeditor
+                    <p>The Cavalry, Journal. <persName>Captain G. Gillson, R.A.</persName>, has been appointed subeditor
                         for Egypt of the "Cavalry Journal," a new quarterly publication, which is
                         intended for the circulation of information concerning cavalry matters in
                         the British and other armies, and to bring the various branches of our
@@ -1024,10 +1432,10 @@
                         hour elapsed before he came to realise that the concern had only an
                         imaginary existence.</p>
 
-                    <p>The Shrager Bankruptcy. On the 19th inst. at the London Bankruptcy Court, a
+                    <p>The Shrager Bankruptcy. On the 19th inst. at the <placeName>London Bankruptcy Court</placeName>, a
                         sitting for public examination was held under the failure of Shrager
-                        Brothers merchants, trading at Lloyd’s avenue, E.C. also at Calcutta
-                        Colombo, Singapore, Alexandria, and elsewhere. The debtors’ affairs are
+                        Brothers merchants, trading at <placeName>Lloyd’s avenue, E.C.</placeName> also at <placeName>Calcutta</placeName>
+                        <placeName>Colombo</placeName>, <placeName>Singapore</placeName>, <placeName>Alexandria</placeName>, and elsewhere. The debtors’ affairs are
                         being wound up in bankruptcy, and the failure appears to be of considerable
                         magnitude, tbe joint account di-closing liabilities to the amount of
                         £76,899, of which £64,518 are expected to rank, with assets which are esti-
@@ -1043,11 +1451,11 @@
 
                     <head>THE SPEECH FOR THE DEFENCE.</head>
 
-                    <p>The Alexandria Native Court was again oc- cupied on Sunday and yesterday with
+                    <p>The <placeName>Alexandria Native Court</placeName> was again oc- cupied on Sunday and yesterday with
                         the proceedings against the first batch of persons accused of participating
                         in the recent distur- bance at Alexandria.</p>
 
-                    <p>The accused were defended by Ali Bey As- sem, whose defence was based on the
+                    <p>The accused were defended by <persName>Ali Bey As- sem</persName>, whose defence was based on the
                         following points: The originators of the trouble were low-class Greeks and
                         the natives were there as spectators. The mob, which was composed of dif-
                         ferent nationalities, was not an unusual gather- ing, as the day was a
@@ -1055,7 +1463,7 @@
                         in the outrages under any circumstances, as can be seen from the fact that a
                         small number of detectives was sufficient to arrest these 104 persons, who
                         made no resistance after the mob was dispersed, and while the authorities
-                        were holding an enquiry into the matter at the Menshieh Caracol. Only 22
+                        were holding an enquiry into the matter at the <placeName>Menshieh Caracol</placeName>. Only 22
                         persons of different nationalities were slightly injured among the enormous
                         crowd, but these ware not attacked by the unfortunate accused, against whom
                         there is no evidence. Even the detectives did not declare before the Court
@@ -1094,12 +1502,12 @@
                     <head>NEW ORGAN FOR ST. GEORGE'S</head>
 
                     <p>The new organ, the gift of the congregation worshipping in H.B.M.'s Garrison
-                        Church of St. George, Mustapha Pasha, in 1904-5, was dedicated to the
+                        C<placeName>hurch of St. George, Mustapha Pasha</placeName>, in 1904-5, was dedicated to the
                         service of Almighty God and for the use of the Church of England troops, on
-                        Friday last, at a special service, by the Rev. F. B. N. Norman-Lee, C.F. and
-                        chaplain in charge. Canon Ward read the lesson and gave a very helpful
-                        address on verse 6 of Psalm 95. Alter the service Mr. Heaton, organist of
-                        St. Mark’s, gave a recital of seven sacred pieces, showing the beautiful
+                        Friday last, at a special service, by the <persName>Rev. F. B. N. Norman-Lee, C.F.</persName> and
+                        chaplain in charge. <persName>Canon Ward</persName> read the lesson and gave a very helpful
+                        address on verse 6 of Psalm 95. Alter the service <persName>Mr. Heaton</persName>, organist of
+                        <placeName>St. Mark’s</placeName>, gave a recital of seven sacred pieces, showing the beautiful
                         combination of the various stops.</p>
 
                     <p>The organ has a rich and full tone, and its sound was fully appreciated by
@@ -1111,21 +1519,21 @@
                         been specially constructed to suit the climate.</p>
                 </div>
                 <div type="item">
-                    <head>ZIZINIA THEATRE</head>
+                    <head><placeName>ZIZINIA THEATRE</placeName></head>
 
                     <p>On Saturday last the third performance of La Tosca was given and drew, as
                         usual, a vast and highly appreciative audience. It was an excellent
                         representation from first to last, one calculated to cause ecstacies of
-                        rapturous emotion. Signs. Bellincioni overpowered us by her forcible and
+                        rapturous emotion. <persName>Signs. Bellincioni</persName> overpowered us by her forcible and
                         gifted acting, coupled with exquisite singing, a combination which never
                         fails to convey the pathos which this difficult role demands. Her notes were
                         pure and pene- trating as ever, though not quite so powerful as on the last
                         occasion we witnessed this opera, and for this the damp weather will no
-                        doubt have been to blame. Sig. Palet, as Mario, again sang with fervour,
-                        dignity, and distinction, while Sig. Polese repeated his remarkably fine
-                        interpretation of the heavy part of Scarpia. Sig Gisnoli took great pains to
-                        give full effect to the role of the Sagrestano. The orchestra, under Sig.
-                        Zuccani, left nothing to be desired.</p>
+                        doubt have been to blame. <persName>Sig. Palet</persName>, as Mario, again sang with fervour,
+                        dignity, and distinction, while <persName>Sig. Polese</persName> repeated his remarkably fine
+                        interpretation of the heavy part of Scarpia. <persName>Sig Gisnoli</persName> took great pains to
+                        give full effect to the role of the Sagrestano. The orchestra, under <persName>Sig.
+                        Zuccani</persName>, left nothing to be desired.</p>
                 </div>
                 <div type="item">
                     <head>’XMAS AT CAIRO.</head>
@@ -1134,15 +1542,15 @@
 
                     <head>FESTIVITIES AT THE HOTELS.</head>
 
-                    <p>At Cairo on ’Xmas Day the usual services were held at the Protestant and
+                    <p>At <placeName>Cairo</placeName>on ’Xmas Day the usual services were held at the Protestant and
                         Roman Ca- tholic churches, and in the evening a small dance was given at
-                        Shepheard’s, where every- thing went as merrily as the date demanded and
+                        <placeName>Shepheard’s</placeName>, where every- thing went as merrily as the date demanded and
                         dancing lasted till very late. The banks were dosed, the British Government
                         officials took holiday, and the Europeans in general affected to be
                         satisfied with the weather on the ground that 'Xmas ought to be cold.</p>
 
-                    <p>On 'Xmas Eve an imposing ’Xmas Tree was to be seen in the Grand Continental
-                        Hotel. The little ones were delighted and the grown ups enjoyed a small
+                    <p>On 'Xmas Eve an imposing ’Xmas Tree was to be seen in the <placeName>Grand Continental
+                        Hotel</placeName>. The little ones were delighted and the grown ups enjoyed a small
                         dance that followed to the full. The ball-room was crowded and dancing
                         lasted till those present could wish "a merry ’Xmas" to one another before
                         they went home.</p>
@@ -1150,7 +1558,7 @@
                     <head>SHEPHEARD’S CHRISTMAS TREE.</head>
 
                     <p>A large and merry crowd of children with a still larger attendance of
-                        "grown-ups" collect- ed in the outer hall of Shepheard’s Hotel on Sunday
+                        "grown-ups" collect- ed in the outer hall of <placeName>Shepheard’s Hotel</placeName> on Sunday
                         afternoon to await the drawing aside of the curtains and the revelation of a
                         magni- ficent Christmas Tree in the "Egyptian Hall.” From half-past four to
                         half-past five the guests arrived in ever-increasing numbers, and save for
@@ -1167,27 +1575,27 @@
                         gladdened by a beautiful gift. The Tzigane orchestra played selections of
                         music during the afternoon, and the buffets, which were abundantly furnished
                         with teas, cakes, ices, and all sorts of good things, were well patronised.
-                        Mr. Baehler ana most generously, and his party was greatly enjoyed by the
+                        <persName>Mr. Baehler</persName> ana most generously, and his party was greatly enjoyed by the
                         several hundreds of guests who were present.</p>
                 </div>
                 <div type="item">
                     <head>XMAS AT MENA.</head>
 
-                    <p>Seldom or never has the terrae of Mena House Hotel been so crowded as on the
+                    <p>Seldom or never has the terrae of <placeName>Mena House Hotel</placeName> been so crowded as on the
                         afternoon of 'Xmas Eve. It was really sur- prising when everybody is
-                        supposed to be up by the Nile, to find such a large gathering of smart
-                        people at Mena House. At 4.8 p.m. the charming dining-hall was filled with a
+                        supposed to be up by the <placeName>Nile</placeName>, to find such a large gathering of smart
+                        people at <placeName>Mena House</placeName>. At 4.8 p.m. the charming dining-hall was filled with a
                         select audience for the carol singing by the staff choir. Unfortunately,
                         however, they were unable to complete the programme, which consisted of six
                         items, on account of the well- deserved encores of the carol singers. These
                         quaint old German songs were alone well worth the trip to Mena, and the
                         zither accom- paniment and the "echo" effect of "Teure Heimat" were very
                         good. The dining hall itself with its 'Xmas Tree and the illuminated models
-                        of the Sultan Hassan Mosque and some ancient temple produced, with the
+                        of the <placeName>Sultan Hassan Mosque</placeName> and some ancient temple produced, with the
                         candles and electric light, quite a fairy scene.</p>
                 </div>
                 <div type="item">
-                    <head>KHEDIVIAL THEATRE, CAIRO.</head>
+                    <head><placeName>KHEDIVIAL THEATRE, CAIRO</placeName>.</head>
 
                     <head>CYRANO DE BERGERAC.</head>
 
@@ -1197,21 +1605,21 @@
                         of Cyrano will quite bear criticism, even compari- son,to a certain degree,
                         with more famous repre- sentations of the same play, in Paris. It is a play
                         with two parts—possibly three, if we count Ragueneau, and it proved in
-                        consequence not beyond the reach of the company. Mme Moreno played Roxane,
+                        consequence not beyond the reach of the company. <persName>Mme Moreno</persName> played Roxane,
                         and achieved most accurately the exact "precieuse plus beauty" note: a
                         thankless note indeed hered for it allows of very little passion or emotion:
-                        it has but affectation and a certain delicate egoism. M Daragon was Cyrano,
+                        it has but affectation and a certain delicate egoism. <persName>M Daragon</persName> was Cyrano,
                         and after the first two acts proved good; in the balcony scene, the journey
                         to the moon, and the last act of all he was really excellent. The ballads
                         duel in the first act was well done: but for the greater part of this and
                         the second, he missed, or exaggerated, his chances: he suggested the
                         schoolboy anxious to get through his Virgi repetition, or on the other hand
                         he relied on one or two intonations to carry off all points. Now the points
-                        all through are many, subtle, various; one has only to see Coquelin to
+                        all through are many, subtle, various; one has only to see <persName>Coquelin</persName> to
                         discover that. His gestures were good all through; but the “make-up," except
                         in the last act, was not at all right; where was the nose. Scarcely in
                         evidence, and certainly not "stalking before me, half a league ahead.” The
-                        other parts were good after their kind except . de Guiche. M. Monteux lacked
+                        other parts were good after their kind except . de Guiche. <persName>M. Monteux</persName> lacked
                         dignity and restraint and was too excited for the "grand seigneur" he was
                         supposed to represent. The staging of the "siege of Arrus" scene was not
                         good; and the effect of the supers charging down the steps was absurd. It is
@@ -1221,7 +1629,7 @@
                         even if it wasn’t “Paris," it was safely above the "provin- cial" mark.</p>
                 </div>
                 <div type="item">
-                    <head>EGYPT AND U.S.A.</head>
+                    <head>EGYPT AND <placeName>U.S.A.</placeName></head>
 
                     <head>NEW DIPLOMATIC AGENT.</head>
 
@@ -1237,7 +1645,7 @@
                         assurance of the cordial feeling of friendship and respect with which the
                         President and the people of the United States regard this wonder- ful Egypt:
                         and to emphasize the hope that this friendship may become even closer. It is
-                        a pleasure to me personally to act as the American representative in Cairo,
+                        a pleasure to me personally to act as the American representative in <placeName>Cairo</placeName>,
                         and I ask, and feel sure that I shall receive, the support and encouragement
                         of your Highness in the care which I shall give to American interests in
                         Egypt, commercial and otherwise. Allow me to offer my best wishes for the
@@ -1254,7 +1662,7 @@
 
                     <p>Je vous remercie oordialement des voeux que vous faites pour moi et pour
                         l’Egypte, et vous prie, M. l'Agent, de vouloir bien transmet- tre au
-                        Président de la Grande République américaine l’expression de ma très vive
+                        <persName>Président de la Grande République américaine</persName> l’expression de ma très vive
                         grati- tude, avec l'assurance que j’ai sincèrement à coeur de répondre à Sa
                         précieuse amitié.</p>
                 </div>
@@ -1262,7 +1670,7 @@
                     <head>THE KHEDIVE AND HIS ARMY.</head>
 
                     <p>The Khedive has despatched the following telegram to the Sirdar : "I have
-                        just returned from the Kiswet El Sherifeh ceremony and desire to place on
+                        just returned from the <placeName>Kiswet El Sherifeh</placeName> ceremony and desire to place on
                         record my appreciation of the admirable manner in which the parade was
                         carried out, the appearance of the troops in general, and especially the
                         splendid condition of the winter clothing. Pray accept my congratula- tions
@@ -1271,7 +1679,7 @@
                 <div type="item">
                     <head>COUNCIL OF MINISTERS.</head>
 
-                    <p>A Council of Ministers will be held on Thursday at Abdeen Palace, under the
+                    <p>A Council of Ministers will be held on Thursday at <placeName>Abdeen Palace</placeName>, under the
                         presi- dency of H.H. the Khedive.</p>
                 </div>
                 <div type="item">
@@ -1280,9 +1688,9 @@
                     <p>Our Akhmin Correspondent writes : - Fif- teen kuttabs will soon be ready for
                         use in the near future for our markaz. The distribution of grants-in-aid to
                         the fikis and arifs of the Akhmin kuttabs took place on Wednesday in the
-                        hall of the markaz, under the presidency of the Moudir of Guirgeh, Ibrahim
-                        Bey Na- breh, who came from Sohag for the purpose, accompanied by the wakil
-                        el Moudirieh, Wassif Bey, the Hakimdar, and the inspector of Ghirgeh
+                        hall of the markaz, under the presidency of the <persName>Moudir of Guirgeh, Ibrahim
+                            Bey Na- breh</persName>, who came from <placeName>Sohag</placeName> for the purpose, accompanied by the wakil
+                        el Moudirieh, <persName>Wassif Bey</persName>, the Hakimdar, and the inspector of Ghirgeh
                         province kuttabs.</p>
 
                     <p>The moudir delivered an address to the omdehs and notables on the building of
@@ -1293,35 +1701,35 @@
                     <p>Our Minet el-Kamh Correspondent writes:— Last Monday was appointed for the
                         distribution of the grants-in-aid to the fikis and arifs of the kuttabs in
                         our district, which took place at 11.30 a.m. in a big tent near the markez
-                        office under the presidency of the Moudir of Charkieh and in presence of a
+                        office under the presidency of the <persName>Moudir of Charkieh</persName> and in presence of a
                         Public Instruc- tion inspector and the notables of the district. The moudir
                         spoke for about half an hour and thanked the notables of the Charkieh
-                        province for their generosity. The inspector of kuttabs, the Omdeh of
-                        Bakkashin, and a clever fiki made excellent speeches on the benefits of
+                        province for their generosity. The inspector of kuttabs, the <persName>Omdeh of
+                        Bakkashin</persName>, and a clever fiki made excellent speeches on the benefits of
                         kuttabs. The grants-in-aid were then given by the moudir to the fikis, who
                         were very g’ad to receive them.</p>
                 </div>
                 <div type="item">
                     <head>STEAMER MOVEMENTS.</head>
 
-                    <p>The S.S. City of Perth (Papayanni line) sailed from Malta on Saturday
+                    <p>The S.S. City of Perth (Papayanni line) sailed from <placeName>Malta</placeName> on Saturday
                         afternoon and is expected to arrive at this port to morrow morning with
                         mails and passengers.</p>
 
-                    <p>The Ellerman S.S. City of Cambridge arriv- ed in Liverpool on Saturday
+                    <p>The Ellerman S.S. City of Cambridge arriv- ed in <placeName>Liverpool</placeName> on Saturday
                         morning.</p>
 
-                    <p>The Ellerman S.S. Avon arrived this morn- ing from Liverpool, Swanses,
-                        Lisbon, Gibraltar, and Malta.</p>
+                    <p>The Ellerman S.S. Avon arrived this morn- ing from <placeName>Liverpool</placeName>, <placeName>Swanses</placeName>,
+                        <placeName>Lisbon</placeName>, <placeName>Gibraltar</placeName>, and <placeName>Malta</placeName>.</p>
                 </div>
                 <div type="item">
-                    <p>CARLTON HOTEL</p>
-                    <p>Bulkeley, Ramleh.</p>
+                    <p><placeName>CARLTON HOTEL</placeName></p>
+                    <p><placeName>Bulkeley, Ramleh</placeName>.</p>
                     <p>Ten minutes from Alexandria. First-Class in every respect Very moderate
                         charges. Bulkeley is the fashionable English quarter. Visitors fron Cairo
-                        alight at Sidi Gaber Station.</p>
+                        alight at <placeName>Sidi Gaber Station</placeName>.</p>
                     <p>xxxxx-xx-x-905</p>
-                    <p>G. AQUILINA, Proprieter.</p>
+                    <p><persName>G. AQUILINA</persName>, Proprieter.</p>
                 </div>
                 <div type="item" scope="advertisement">
                     <p>WINDSOR HOTEL Restaurant. </p>
@@ -1337,12 +1745,12 @@
                     <head>AFFAIR SENT BEFORE TRIBUNALS.</head>
 
                     <p>At 3.30 p.m. on Saturday the eleventh meeting of the creditors of the Société
-                        de- Sucreries et de la Raffinerie d'Egypte took place at the Commercial
-                        Chamber of the Mixed Tribunals Cairo, under the presidency of Judge Tuck.
-                        Me. Carton de Wiart, whose lameness prevented him from rising, was grant- ed
+                        de- Sucreries et de la Raffinerie d'Egypte took place at the <placeName>Commercial
+                        Chamber of the Mixed Tribunals Cairo</placeName>, under the presidency of <persName>Judge Tuck</persName>.
+                        <persName>Me. Carton de Wiart</persName>, whose lameness prevented him from rising, was grant- ed
                         permission to speak sitting, and opened the ball with a plea for a farther
                         postponement. He stated that the proposals made under the concordat had been
-                        sent to Paris and that a wire had been received from Paris begging for a
+                        sent to <placeName>Paris</placeName> and that a wire had been received from <placeName>Paris</placeName> begging for a
                         postponement of their publication till the 19th inst. Since then certain
                         modifications had been insisted on by the shareholders, and matters were not
                         yet finally settled. This being so, he begged for a week's postponement, and
@@ -1350,8 +1758,8 @@
                         the wishes of the whole body of creditors, to withdraw from his
                         determination already expressed to send the affair before the Tribunals.</p>
 
-                    <p>Me. St. Plancat and Me. Bakri, representing Me. Padoa Bey, joined in the
-                        demand, but Judge Tuck was inexorable as Rhadamanthus. He remarked that the
+                    <p><persName>Me. St. Plancat</persName> and <persName>Me. Bakri</persName>, representing <persName>Me. Padoa Bey</persName>, joined in the
+                        demand, but <persName>Judge Tuck</persName> was inexorable as Rhadamanthus. He remarked that the
                         cessation of payments took place on September 7. The judgment authorising
                         the application of the concordat préventif was given on September 19. The
                         first meeting of creditors took place on October 4, when the first report of
@@ -1364,17 +1772,17 @@
                     <p>The avocats protested in vain. "You will bring your proposals before the
                         Tribunal,” quoth the judge, “far more rapidly. Here we have nothing but
                         requests for new postpone- ments and promises for the next time, but I have
-                        not had any communication of the pro- posals made to me." Me. Carton de
-                        Wiart remarked that the proposals had been sent to Paris. Judge Took
-                        observed that they had not been made before him. Me. St. Plancat then asked
+                        not had any communication of the pro- posals made to me." <persName>Me. Carton de
+                        Wiart</persName> remarked that the proposals had been sent to Paris. <persName>Judge Tuck</persName>
+                        observed that they had not been made before him. <persName>Me. St. Plancat</persName> then asked
                         whether the proposals might be discussed before the Tribunal. An emphatic
-                        negative from Judge Tuck, who pointed out that the Tribunal simply had to
+                        negative from <persName>Judge Tuck</persName>, who pointed out that the Tribunal simply had to
                         decide whether the company was to be ad- mitted to the privileges of the
                         concordat pre- ventif. For his part he would not keep the responsibility of
                         the affair on his shoulders for 48 hours.</p>
 
-                    <p>The greffier, M. Zigliara, then read the following note from the experts, Sir
-                        W. Will- cocks, Fourneron Bey, and Prof. Sampaolo :-</p>
+                    <p>The greffier, <persName>M. Zigliara</persName>, then read the following note from the experts, <persName>Sir
+                        W. Will- cocks</persName>, <persName>Fourneron Bey</persName>, and <persName>Prof. Sampaolo</persName> :-</p>
 
                     <p>Monsieur le Juge Commis,</p>
 
@@ -1407,22 +1815,22 @@
                 <div type="item">
                     <head>PICTURE EXHIBITION.</head>
 
-                    <p>On Saturday last M. Warton Mahokian open- ed the exhibition of his paintings
+                    <p>On Saturday last <persName>M. Warton Mahokian</persName> open- ed the exhibition of his paintings
                         at the Immeu- ble Bitter in Opera-square, Cairo, and though the weather was
                         bitterly cold and rain fell occasionally, quite a number of people visited
                         the rooms, where there were over a hundred oil paintings on view. Though all
                         of these were not to our taste, they were all well painted, and it was
                         evident that the work had been done by a real artist. Seascapes were the
                         principal fea- tures of the exhibition and the painting of sea scenes
-                        certainly seem to be M. Mahokian’s forte, whilst of his landscape his winter
+                        certainly seem to be <persName>M. Mahokian</persName>’s forte, whilst of his landscape his winter
                         scenes were the best. Of these latter, two were espe- cially effective and
-                        realistic, a winter’s evening in Russia and a similar scene in the environs
-                        of Berlin (Nos. 84 and 71), and of other land- scapes a picture of a
-                        brigands’ resting place in the Caucasus (No. 47) was remarkable for its
+                        realistic, a winter’s evening in <placeName>Russia</placeName> and a similar scene in the environs
+                        of <placeName>Berlin</placeName> (Nos. 84 and 71), and of other land- scapes a picture of a
+                        brigands’ resting place in the <placeName>Caucasus</placeName> (No. 47) was remarkable for its
                         boldness and excellent colour effects; there was also a very fine painting
                         of a woodland scene (No. 11) in which the colouring was very true to nature.
-                        Among the seascapes there were several fine sunsets, notably on the Jutland
-                        shores (No. 24) and on the Swedish shores (No. 94), and some splendid
+                        Among the seascapes there were several fine sunsets, notably on the <placeName>Jutland
+                        shores</placeName> (No. 24) and on the <placeName>Swedish shores</placeName> (No. 94), and some splendid
                         paintings of stormy seas. We certainly recommend our read- ers to pay this
                         excellent exhibition a visit.</p>
                 </div>
@@ -1434,7 +1842,7 @@
                     <head>ENTRIES FOR WINTER MEETING.</head>
 
                     <p>The following are the entries for the He- louan Sporting Club 1st Winter
-                        Meeting to be held on Friday, 29th inst., at Helouan.</p>
+                        Meeting to be held on Friday, 29th inst., at <placeName>Helouan</placeName>.</p>
 
                     <p>FIRST RACE, 2 a.m.</p>
 
@@ -1443,8 +1851,8 @@
                         description, Gymkhanas excepted. Weight for age and inches. Distance 5
                         furlongs. Entrance P.T. 300.</p>
 
-                    <p>Hussein Bey Sinfi’s Abu Nadars, Salah Bey Yaghen’s Ibrahimia and Acil, Kamel
-                        Eff. Maher’s Ginehy, Mr. A. J. Michaelides' Derry Boy, Mr. Emin Karam’s
+                    <p><persName>Hussein Bey Sinfi</persName>’s Abu Nadars, <persName>Salah Bey Yaghe</persName>n’s Ibrahimia and Acil, <persName>Kamel
+                        Eff. Maher</persName>’s Ginehy, <persName>Mr. A. J. Michaelides</persName>' Derry Boy, Mr. Emin Karam’s
                         Shaiboob.</p>
 
                     <p>SECOND RACE, 2.30 p.m.</p>
@@ -1454,10 +1862,10 @@
                         winners of a race of any description 7 lbs extra. Distance 3/4 . mile.
                         Eutrance P.T. 300.</p>
 
-                    <p>Ibrahim Bey Cherif's Vandal, Ishak Bey Hussein’s Kismet, Moharrem Pasha
-                        Chehin’s Mizzaud, Ahmed Eff. Ibesh’s Cherine, Ahmed Bey el Bakri’a Aeolus,
-                        Captain Protheros Smith’s Sanhane, Mr. A. J. Sursock’s Sans Pareil Captain
-                        Gibson’s John Peel.</p>
+                    <p><persName>Ibrahim Bey Cherif</persName>'s Vandal, <persName>Ishak Bey Hussein</persName>’s Kismet, <persName>Moharrem Pasha
+                        Chehin</persName>’s Mizzaud, <persName>Ahmed Eff. Ibesh</persName>’s Cherine, <persName>Ahmed Bey el Bakri</persName>’a Aeolus,
+                        <persName>Captain Protheros Smith</persName>’s Sanhane, <persName>Mr. A. J. Sursock</persName>’s Sans Pareil <persName>Captain
+                        Gibson</persName>’s John Peel.</p>
 
                     <p>THIRD RACE, 3 p.m.</p>
 
@@ -1467,13 +1875,13 @@
                         Plate or Cairo Derby, at the Cairo 1st winter Meeting 1905 will carry an
                         extra penalty, in this race, of 7 lbs. Distance one mile :-</p>
 
-                    <p>Hussein Bey Sioufi’s Katkout and Atragak, Saleh Bey Yaghen’s Miasser and Ide,
-                        Ishak Bey Hussein’s Nusrut (late Cupid) and Sum- mear, Albert J. Sursock’s
-                        The Bard and Ruy Blas, Mr. E Karam’s Tembel and Kaimakam, Ahmed Eff. Ibesh’s
-                        Cher and Kourmange, N. Soussa and Kamel Eff. Maher’s Mahrous, Ibra- him Bey
-                        Cherif's Gladiateur II and Sattam, Moharrem Pasha Ghebin’s Naouak, Hassan
-                        Bey Kheir El Din’s Lahik, Omar Bey Sultan and Ahmed Bey El Bakri’s Kohelan
-                        Tair, Saleh Bey Yaghen's Bulkley, Ahmed Bey Bakri’s Aeolus.</p>
+                    <p><persName>Hussein Bey Sioufi</persName>’s Katkout and Atragak, <persName>Saleh Bey Yaghen</persName>’s Miasser and Ide,
+                        <persName>Ishak Bey Hussein</persName>’s Nusrut (late Cupid) and Sum- mear, <persName>Albert J. Sursock</persName>’s
+                        The Bard and Ruy Blas, <persName>Mr. E Karam</persName>’s Tembel and Kaimakam, <persName>Ahmed Eff. Ibesh</persName>’s
+                        Cher and Kourmange, N. Soussa and <persName>Kamel Eff. Maher</persName>’s Mahrous, <persName>Ibra- him Bey
+                        Cherif</persName>'s Gladiateur II and Sattam, <persName>Moharrem Pasha Ghebin</persName>’s Naouak, <persName>Hassan
+                        Bey Kheir El Din</persName>’s Lahik, Omar Bey Sultan and <persName>Ahmed Bey El Bakri</persName>’s Kohelan
+                        Tair, <persName>Saleh Bey Yaghe</persName>n's Bulkley, <persName>Ahmed Bey Bakri</persName>’s Aeolus.</p>
 
                     <p>FOURTH RACE, 3.30 p.m.</p>
 
@@ -1481,8 +1889,8 @@
                         P.T. 500, out of the stakes. For Maiden (at nomination) Arabs and E.C. Bs.
                         Class II. Weight for age and class, with penalties. Distance one mile.</p>
 
-                    <p>Hussein Bey Siufi’s Aids, Mr. Albert J. Sur- sock's Alarm. A. J. Michaelides’
-                        Jupiter, Hassan Muheen Pasha's Chaylak and Nagget, Ibrahim Bey Cherif's
+                    <p><persName>Hussein Bey Siufi</persName>’s Aids, <persName>Mr. Albert J. Sur- sock</persName>'s Alarm. <persName>A. J. Michaelides</persName>’
+                        Jupiter, <persName>Hassan Muheen Pasha</persName>'s Chaylak and Nagget, <persName>Ibrahim Bey Cherif</persName>'s
                         Kendal and Messoud (late Wassal).</p>
 
                     <p>FIFTH RACE, 4 p.m.</p>
@@ -1492,9 +1900,9 @@
                         the advertised value of P.T. 1,000 or more. Weight for age, Galloways
                         allowed 4 lbs. ponies 7 lbs. Distance 1/2 mile. Entrance P.T 300.</p>
 
-                    <p>Mr. Emin Karam's Tamerlan, Capt. Rome's Ishallah, Ahmed Eff. Ibeshe’s
-                        Cherine, Hussein Bey Siufi’s Abou Nadara, Ishak Bey Hussein’s Kismet, Mr. A.
-                        J. Sursock’s Amie, Mr. A. J. Michaelides' Derry Boy.</p>
+                    <p><persName>Mr. Emin Karam</persName>'s Tamerlan, <persName>Capt. Rome</persName>'s Ishallah, <persName>Ahmed Eff. Ibeshe</persName>’s
+                        Cherine, <persName>Hussein Bey Siufi</persName>’s Abou Nadara, <persName>Ishak Bey Hussein</persName>’s Kismet, <persName>Mr. A.
+                        J. Sursock</persName>’s Amie, <persName>Mr. A. J. Michaelides</persName>' Derry Boy.</p>
 
                     <p>SIXTH RACE 4.30 p.m.</p>
 
@@ -1506,9 +1914,9 @@
                         7lbs. for Ponies. Those previously placed in any race to carry 7 lbs. extra.
                         Distanoe 1 mile. Entrance P.T. 200 to be paid at the time of entry.</p>
 
-                    <p>Daoud Sultan’s Hadban, Ali Hawas’ Suari Il., Makbood Hooder’s Abou Ide, Mr.
-                        Kar- kour’s Amil Marouf, Yunni’s Sahi (late Mas- tour), Freed Tahawi'sSadik,
-                        Shaker's Seoudi (late Nouri), Mahmoud Ismail’s Fahad (late Vali).</p>
+                    <p><persName>Daoud Sultan</persName>’s Hadban, <persName>Ali Hawas</persName>’ Suari Il., <persName>Makbood Hooder</persName>’s Abou Ide, <persName>Mr.
+                        Kar- kour</persName>’s Amil Marouf, <persName>Yunni</persName>’s Sahi (late Mas- tour), <persName>Freed Tahawi</persName>'sSadik,
+                        <persName>Shaker</persName>'s Seoudi (late Nouri), <persName>Mahmoud Ismail</persName>’s Fahad (late Vali).</p>
 
                     <p>Selling lotteries in connection with the above races will take place on
                         Thursday, 28th inst., at 5 p.m., at the Tewfik Palace Hotel, Helouan.</p>
@@ -1536,9 +1944,9 @@
 
 <head>5,000 KILLED, 14,000 WOUNDED.</head>
 
-<p>St. Petersburg, December 23.
+<p><placeName>St. Petersburg</placeName>, December 23.
 The whole strength of the strike is centred
-at Moscow, at which city the Government is
+at <placeName>Moscow</placeName>, at which city the Government is
 strenuously fighting against it. The represent-
 atives of strikers, while dismissing their final
 plans in a large building yesterday evening,
@@ -1548,13 +1956,13 @@ artillery shelled the building until they capi-
 tulated. Barricades have been erected, but the
 troops have stormed several them.</p>
 
-<p>Moscow, December 23.
+<p><placeName>Moscow</placeName>, December 23.
 Severe fighting has taken place between the
 dragoons and the strikers. Barricades have
 been destroyed. 40 strikers, 5 officers, and 13
 soldiers have bean killed or wounded. (H.)</p>
 
-<p>Moscow, December 24..
+<p><placeName>Moscow</placeName>, December 24..
 A regular pitched battle is engaged in in the
 streets here. Yesterday afternoon there was
 incessant firing in all quarters of the city,
@@ -1569,7 +1977,7 @@ the heart of the city opened a hot fire on the
 barricades during the afternoon, while quick
 firers swept the boulevards which debouch on
 the square. Fire was concentrated on the
-barricades on Tverskykastreet, destroying
+barricades on <placeName>Tverskykastreet</placeName>, destroying
 them. Meanwhile a large force of infantry kept
 up an incessant rifle fire, and sharpshooters
 posted in the belfry of the monastery picked
@@ -1595,19 +2003,19 @@ and bombs, in one case killing or wounding 20
 gendarmes. All the hospitals and doctors’ resi-
 dences are full of wounded.	(Reuter)</p>
 
-<p>Moscow, December 24.
+<p><placeName>Moscow</placeName>, December 24.
 The artillery have bombarded the barricades.
 The collisions are spreading. (Havas)</p>
 
-<p>Moscow, December 25.
+<p><placeName>Moscow</placeName>, December 25.
 Fighting ceased at midnight.	(Reuter)</p>
 
-<p>Moscow, December 25.
+<p><placeName>Moscow</placeName>, December 25.
 It is believed that the number of people
 killed during the last few days amounts to
 2,000.	(Havas)</p>
 
-<p>Moscow, December 26.
+<p><placeName>Moscow</placeName>, December 26.
 Until an early hour on Monday morning
 there were 5,000 killed and 14,00 wounded
 in the fighting here. The cannonading was
@@ -1618,13 +2026,22 @@ been killed. The city is beginning to feel the
 lack of provisions.	(Reuter)</p></div>
 
 
+<div type="Item" scope="advertisement">
+    <head>Samuelson & Sons</head>
+    <head>A & M SAMUELSON BROS</head>
+<p>Successers.</p>
+    <p>Established in 1860</p>
+    <p>Largest and Oldest Furniture House in Cairo.</p>
+<p>Auctioneers and Valuers</p>
+    <p>Large stock of Bedsteacks, Bed room, Dining-room, Drawing-room Suites.
+        Curtains, etc., etc., always on Show.
+        Sharia Gheneneh, Bebekieh.</p>
+    <p>Opposite the American Mission</p>
+    <p>Telephone No. 390</p></div>
 
 
 
 
-
-
-A&M SAMUELSON BROS
 
 POUMONS REGENERES
 
@@ -1637,17 +2054,17 @@ POUMONS REGENERES
 
                 <div type= "item"><head>A LITHUANIAN INVASION</head>
 
-                    <head>SITUATION AT ST. PETERSBURG</head>
+                    <head>SITUATION AT <placeName>ST. PETERSBURG</placeName></head>
 
 <head>POPULATION ATTACKING STRIKERS</head>
 
-<p>St. Petersburg, December 23.
+<p><placeName>St. Petersburg</placeName>, December 23.
 Several thousand Lithuanians have invaded
-the province of Vitebak, sacking and burning.
+the province of <placeName>Vitebak</placeName>, sacking and burning.
 Tbey declare their intention of forming a
 Lithuanian Republic.	(Reut)</p>
 
-<p>St. Petersburg, December 23.
+<p><placeName>St. Petersburg</placeName>, December 23.
 The police have arrested the executive com-
 mittee of the strike. The workmen’s societies
 of numerous railways have proclaimed a strike.
@@ -1656,55 +2073,55 @@ they are without food. Sanguinary encoun-
 ters have taken place in which people hare
 been killed or wounded.	(Havas)</p>
 
-                    <p>St. Petersburg, December 24.
+                    <p><placeName>St. Petersburg</placeName>, December 24.
 The city is quiet.	(Havas)</p>
 
-                    <p>Warsaw, December 25.
+                    <p><placeName>Warsaw</placeName>, December 25.
 The telegraphists have decided to end the
 strike. The service has been resumed. (Havas)</p></div>
 
                 <div type= "item"><head>TO PROTECT FRENCH CITIZENS.</head>
 
-Paris, December 25.
+<placeName>Paris</placeName>, December 25.
 Two ships of war have been ordered to hold
-themselves in readiness to proceed to Russia
+themselves in readiness to proceed to <placeName>Russia</placeName>
 to protect French citizens.	(Reuter)</div>
 
 <div type= "item"> <head>DATE OF DISSOLUTION.</head>
-London, December 23.
+<placeName>London</placeName>, December 23.
 The Privy Council is summoned for the 8th
 of January. Dissolution will follow immediately.
 (Reuter)</div>
 
                 <div type= "item"><head>NEW ITALIAN MINISTRY.</head>
-<p>Rome, December 24.
-Signor Fortis has re-constituted the Minis-
-try. The Marquis of San Giuliano is Minister
+<p><placeName>Rome</placeName>, December 24.
+<persName>Signor Fortis</persName> has re-constituted the Minis-
+try. The <persName>Marquis of San Giuliano</persName> is Minister
 for Foreign Affairs.	(Reuter)</p>
 
-<p>Rome, December 24.
-Sig. Fortis has reconstituted the Cabinet.
-The Marquis di San Giuliano is Minister for
+<p><placeName>Rome</placeName>, December 24.
+<persName>Sig. Fortis</persName> has reconstituted the Cabinet.
+The<persName>Marquis di San Giuliano</persName> is Minister for
 Foreign affairs.	(Havas)</p></div>
 
                 <div type= "item"><head>QUIET RESTORED IN SHANGHAI.</head>
 
-Shanghai, December 25.
+<placeName>Shanghai</placeName>, December 25.
 The Mix d Court was re-opened on Saturday.
 Proceedings were normal.		(Reuter)</div>
 
                 <div type= "item"><head>ETHIOPIAN RAILWAY.</head>
-Adis Abeba, December 25.
+<placeName>Adis Abeba</placeName>, December 25.
 In accordance with the Emperor’s orders the
 engineers of the Ethiopian railways have begun
 the works for the continuation of the line from
-Diradaoua to this city.	(Reuter)</div>
+<placeName>Diradaoua</placeName> to this city.	(Reuter)</div>
 
                 <div type= "item"><head>MOROCCO CONFERENCE</head>
 
-Tangier, December 25.
+<placeName>Tangier</placeName>, December 25.
 The Sultan maintains that the conference
-must be held at Algesiras.	(Havas)</div>
+must be held at <placeName>Algesiras</placeName>.	(Havas)</div>
 
 
 
@@ -1732,7 +2149,7 @@ allusion to his concluding pages, so far as they
 touch religious questions ; we only quote a few
 paragraphs from them.</p>
 
-                    <p>In a book referring only to Egypt it appears
+                    <p>In a book referring only to <placeName>Egypt</placeName> it appears
 to us quite useless to again rake up the tragedy
 of American colonisation. We never heard that
 in these more enlightened times there was ever
@@ -1820,7 +2237,7 @@ ship.</p>
 the emancipation or nationalism of Egypt
 in many ways. He goes back far enough to call
 our attention to the rise, decline, and fall of
-the British power in the Ionian islands ; he
+the British power in the <placeName>Ionian islands</placeName> ; he
 refers to other historical matters, all of which
 appear to us to have little to do with Egypt ;
 he devotes a whole chapter to the "false posi-
@@ -1838,10 +2255,10 @@ greatest apologist we have yet heard of. Eng-
 land’s occupation of Egypt; he praises it in
 such lofty language that at times we were
 tempted to recall the prophet of old, who,
-looking down from the barren hills of Moab, on
+looking down from the barren hills of <placeName>Moab</placeName>, on
 the fertile plains and valleys on the other side of
-Jordan, said, almost in spite of himself, "How
-beautiful are thy tents, 0 Israel." Unlike the
+<placeName>Jordan</placeName>, said, almost in spite of himself, "How
+beautiful are thy tents, O Israel." Unlike the
 seer of Bible history our anthor has apparently
 been induced to change his opinion when about
 half-way through with his work.</p>
@@ -1862,43 +2279,43 @@ London, Chapman & Hall.</p></div>
     <p>The most important events among Masons
 each year—the installation of the W.M —
 were commenced on Monday week by the
-installation of the W.M. of the Ragheb Lodge
+installation of the W.M. of the <placeName>Ragheb Lodge</placeName>
 No. 51 Egyptian Constitution, it happens to
 be the first of the Masonic year, and is always
 looked forward to.</p>
 
     <p>After the lodge was opened by the W M., who
-was very ably assisted by Wor. Bres Felix
-Powell, W.M. of the Grecia Lodge Eng. Co .,
-Paul Oziol, W.M Union and Soldaritie Ev.
-Con., Foster-Smith, W.M. of the Idris Lodge
-Illustrious Bre. Assidourian 33. W. Bros P.
-Plunkett. I. P. M., W. J. King. W. H Brock-
-way, E. Drechsler, G. Gottlieb, T. M. Chinn,
-R. R. Smithard, W. Button, M. R. Pattison, R
-Watson-Ramsay, and Fred Phillips, and Bros.
-Dr. Madden, S. W. Grecia Lodge, Dr. T Burns,
-Klingler, Kenneth-Scott, Fitzpatrick, A. V.
-Thomson, Waller, Paton, Horse, Delburgo, M.
-A. Delburgo. Letailla, R. Spelling, D. Mac-
-donald, B. W. Jordan, L. Leon. I. Selighson,
-H. E. A. B. Brewster Bey (W. M. elect),
-General Mahmoud Tewfik, and many others.
-Bro. M. Kenneth-Scott was duly affiliated, and
-Mr. Howard, a candidate for initiation, was
+was very ably assisted by <persName>Wor. Bres Felix
+Powell</persName>, W.M. of the Grecia Lodge Eng. Co .,
+<persName>Paul Oziol</persName>, W.M Union and Soldaritie Ev.
+Con., <persName>Foster-Smith</persName>, W.M. of the Idris Lodge
+Illustrious Bre. Assidourian 33. <persName>W. Bros P.
+Plunkett</persName>. I. P. M., W. J. King. <persName>W. H Brock-
+way</persName>, <persName>E. Drechsler</persName>, <persName>G. Gottlieb</persName>, <persName>T. M. Chinn</persName>,
+<persName>R. R. Smithard</persName>, <persName>W. Button</persName>, <persName>M. R. Pattison</persName>, <persName>R
+Watson-Ramsay</persName>, and <persName>Fred Phillips</persName>, and Bros.
+<persName>Dr. Madden</persName>, <persName>S. W. Grecia Lodge</persName>, <persName>Dr. T Burns</persName>,
+<persName>Klingler</persName>, <persName>Kenneth-Scott</persName>, <persName>Fitzpatrick</persName>, <persName>A. V.
+Thomson</persName>, <persName>Waller</persName>, <persName>Paton</persName>, <persName>Horse</persName>, <persName>Delburgo</persName>, <persName>M.
+A. Delburgo</persName>. <persName>Letailla</persName>, <persName>R. Spelling</persName>, <persName>D. Mac-
+donald</persName>, <persName>B. W. Jordan</persName>, <persName>L. Leon</persName>. <persName>I. Selighson</persName>,
+<persName>H. E. A. B. Brewster Bey</persName> (W. M. elect),
+<persName>General Mahmoud Tewfik</persName>, and many others.
+<persName>Bro. M. Kenneth-Scott</persName> was duly affiliated, and
+<persName>Mr. Howard</persName>, a candidate for initiation, was
 admitted and duly received his first insight
 into the mysteries. The following distinguished
 brethren were appointed to fill the various
-offices for the occasion, via: W. Bros. Chinn. S
-W., W.J. King, J W., Button, S. D. Pattison,
-J. D. Drechsler, I. G., and Plunkett, as
+offices for the occasion, via: <persName>W. Bros. Chinn</persName>. S
+W., <persName>W.J. King</persName>, J W., <persName>Button</persName>, <persName>S. D. Pattison</persName>,
+<persName>J. D. Drechsler</persName>, I. G., and <persName>Plunkett</persName>, as
 D. of C.</p>
 
     <p>The lodge being opened in the next degree,
 the W.M. elect swore allegiance to the duties
 of the post, and on being opened in the 3rd
 the M. W. the Grand Master of Egypt, his
-Excellency Idris bey Razheb, entered the lodge
+Excellency <persName>Idris bey Razheb</persName>, entered the lodge
 and was duly received in accordance with
 ancient custom and saluted as befitted his
 exalted rank; the gavil being banded him by
@@ -1907,32 +2324,32 @@ to carry on the work. A board of installed
 Masters having been formed, the W. M. elect
 was further instructed and was placed in the
 hair of K.S. in accordance with custom. On
-the return of the brethren to the lodge W.
-Bro. Brewster Bey was proclaimed and sainted
+the return of the brethren to the lodge <persName>W.
+Bro. Brewster Bey</persName> was proclaimed and sainted
 from the usual position. The charter, constitu-
-tions and bye-laws having been presented, W.
-Bro. Beale, I. M. called, the brethren to order
+tions and bye-laws having been presented, <persName>W.
+Bro. Beale</persName>, I. M. called, the brethren to order
 while he read a communication he had received
 from the Grand Lodge, in which was a decree
 appointing the newly-installed W. M. as Past
 Grand Warden of Egypt. The M. W. Grand
-Master heartily congratulated Rt Wor. Brewster
-Bey on the appointment. The W. M. cordially
+Master heartily congratulated Rt <persName>Wor. Brewster
+Bey</persName> on the appointment. The W. M. cordially
 thanked him for the high honor conferred
 upon him. The G M. then requested permis-
 sion to retire. The W M. was saluted with the
 honors due to his rank, and then appointed
 his officers for the year as follows:— I. P. M.,
-Wor. Bro. Beale; S. W. Bro. W. H Latailla ;
-J. W., Bro. D Macdonald; Treas., W. Bro. W
-H. Brockway, Sec, Bro. R. Snelling; S D.,
-Bro B W. Jordan ; J.D , W. Bro. W. Button ;
-D. of C.. Bro. F. Leonard; Asst ditto, Bro.
-Haseldine; XX I. G., Bro W Barnes, and
-Guardians, Bros. Canning and Yacoub. W.
-Bro. Ahmed Nasrat Bey organist, V Wor. Bro
-F. B. N. Norman-Le, chaplain, Bros L Leon
-and Jordan Smith, stewards.</p>
+<persName>Wor. Bro. Beale</persName>; S. W. Bro. <persName>W. H Latailla</persName> ;
+J. W., Bro. <persName>D Macdonald</persName>; Treas., W. Bro. <persName>W
+H. Brockway</persName>, Sec, Bro. <persName>R. Snelling</persName>; S D.,
+Bro <persName>B W. Jordan</persName> ; J.D , W. Bro. <persName>W. Button</persName> ;
+D. of C.. Bro. <persName>F. Leonard</persName>; Asst ditto, Bro.
+<persName>Haseldine</persName>; XX I. G., Bro <persName>W Barnes</persName>, and
+Guardians, Bros. <persName>Canning</persName> and <persName>Yacoub</persName>. W.
+Bro. <persName>Ahmed Nasrat Bey</persName> organist, V Wor. Bro
+<persName>F. B. N. Norman-Le</persName>, chaplain, Bros <persName>L Leon</persName>
+and <persName>Jordan Smith</persName>, stewards.</p>
 
     <p>The installation ceremony being completed,
 the W. M., rising, said a few words regarding
@@ -1948,7 +2365,7 @@ lodge for the manner in which the duties
 in the lodge has been carried out, it was
 meant as a mark of esteem and appreciation.
 The L. P. M,. replying, felt proud to be a
-P.M. of the Ragheb Lodge and would ever
+P.M. of the <placeName>Ragheb Lodge</placeName> and would ever
 do his utmost to further its interests. He said
 how grateful he felt to all the members for their
 cordial and loyal support, during his year of
@@ -1960,8 +2377,8 @@ grown stronger and stronger.</p>
 
     <p>The balance sheet showed a very substantial
 cash balance at the bank, and it was proposed
-to send a further donation to the Blind Insti-
-tution at Zeitoun of 1O. This was agreed to
+to send a further donation to the <placeName>Blind Insti-
+tution at Zeitoun</placeName> of 1O. This was agreed to
 with acclamation. It was pointed out that
 this excellent institution received candidates
 irrespective of religion, nationality, or stand-
@@ -1977,11 +2394,11 @@ were conveyed to the W. M. from the lodges
 in Egypt and from all parts of the globe for a
 happy and successful year of office.</p>
 
-    <p>The members then adjourned to the Grand
-Continental Hotel, where a very handsomely
+    <p>The members then adjourned to the <placeName>Grand
+Continental Hotel</placeName>, where a very handsomely
 decorated table testified to the great care
 which is given to these festivities by its genial
-manager, Bro. A. Klingler. The chef was
+manager, Bro. <persName>A. Klingler</persName>. The chef was
 called for and heartily congratulated on the
 manner in which the good things provided
 were served up.</p>
@@ -2000,9 +2417,9 @@ fraternal bonds.</p>
 
     <p>The following brethren helped to make the
 evening a very pleasant one with songs,
-recitations, selections, &c: W. Bro. Button,
-Powell, Bros. Dr. Madden, Waller, Barnes,
-Latailla, &c.</p>
+recitations, selections, &c: W. Bro. <persName>Button</persName>,
+<persName>Powell</persName>, Bros. <persName>Dr. Madden</persName>, <persName>Waller</persName>, <persName>Barnes</persName>,
+<persName>Latailla</persName>, &c.</p>
 
     <p>By kind permission of the commanding offi-
 cer and officers the Royal Inniskilling Fusilier-
@@ -2014,10 +2431,10 @@ with regret at being unable to be present at
 the banquet as he had been, and is still, in
 the hands of his medical adviser. Hopes were
 expressed for a speedy return to health. He
-was very able represented by W. Bro. A.C
-Garofallo, A.G S.</p>
+was very able represented by W. Bro. <persName>A.C
+Garofallo</persName>, A.G S.</p>
 
-    <p>[Rt. Wor. Brewster Bey was installed in the
+    <p>[Rt. Wor. <persName>Brewster Bey</persName> was installed in the
 above-named lodge and not the "Idris," as
 notified in a Cairo contemporary. — Ed. E. G.]</p></div>
             
@@ -2031,14 +2448,14 @@ notified in a Cairo contemporary. — Ed. E. G.]</p></div>
                 <div type="item">
                     <p>IMPORTANT NOTICE.</p>
                     <p>MARTELL COGNAC.</p>
-                    <p>M. H. DEMIRGIAN BEY, General Agent for this important House, warns the
+                    <p><persName>M. H. DEMIRGIAN BEY</persName>, General Agent for this important House, warns the
                         public to beware of Imitations, and to examine the labels, corks, and
                         capsules.</p>
                     <p>The principal importers of this well-known Brand are </p>
-                    <p>At Alexandria: MM. G. Attard &amp; Co. Christo C. Solea, Costi H.
-                        Georgiou, N. Pappa, A. &amp; G. Monferato, John B. Caffari, Frangini
-                        Mitzos &amp; Co. Cokinos Freres, P, J. Zombos.</p>
-                    <p>At Cairo: MM. S. di M. Riso, A. Jeronymidis &amp; John B.Caffari.</p>
+                    <p>At Alexandria: <persName>MM. G. Attard</persName> &amp; <persName>Co. Christo C. Solea</persName>, <persName>Costi H.
+                        Georgiou</persName>, <persName>N. Pappa</persName>, A. &amp; <persName>G. Monferato</persName>, <persName>John B. Caffari</persName>, <persName>Frangini
+                        Mitzos</persName> &amp; <persName>Co. Cokinos Freres</persName>, <persName>P, J. Zombos</persName>.</p>
+                    <p>At Cairo: <persName>MM. S. di M. Riso</persName>, <persName>A. Jeronymidis</persName> &amp; <persName>John B.Caffari</persName>.</p>
                     <p>Where customers will find the genuine MARTELLI, which cannot be sold
                         below the minimum price given below for each quality: </p>
                     <p>* 35/- per case or P.T. 170.5.</p>
@@ -2479,8 +2896,8 @@ prove satisfactory to international shipping.</p>
 
 <p>An all-around ad valorem, Customs Duty on
 imports of 8 % constitutes the general tariff
-of the Turkish Empire, and consequently of
-Egypt, and no higher duty can be imposed
+of the <placeName>Turkish Empire</placeName>, and consequently of
+<placeName>Egypt</placeName>, and no higher duty can be imposed
 except by International Agreement. In the
 case of Egypt a surtax exists on tobacco and
 tobacco only. For the first time, I believe, in
@@ -2579,9 +2996,9 @@ Egypt in November, 1876, took no account of
 the debt of the "Daira Sanieh," a special
 administration charged with the management
 of certain properties acquired by the late
-Khedive Ismail. With a view to paying off
+<persName>Khedive Ismail</persName>. With a view to paying off
 that debt an arrangement was made in 1877
-by Messrs. Goschen & Joubert to float a loan
+by Messrs. <persName>Goschen</persName> & <persName>Joubert</persName> to float a loan
 having a first mortgage on the Daira Sanieh
 properties. The Khedivial Treasury engaged
 to make good any deficiency in the annual
@@ -2664,17 +3081,17 @@ few stamps are sent by the advertiser to
 cover postage.</p>
 
 <p>ANGLO AMERICAN Typewriting Agency,
-19, Boulevard de Ramleh. ONLY ENGLISH
+<placeName>19, Boulevard de Ramleh</placeName>. ONLY ENGLISH
 TYPEWRITING OFFICE in Alexandria. Typewiting
 by copy or by dictation. Densmore Typewriter,
-(Offioial Typewriter of the St. Louis Exhi-
-bition). " Success" Typewriter Supplies at
+(Offioial Typewriter of the <placeName>St. Louis Exhi-
+bition</placeName>). " Success" Typewriter Supplies at
 London prices. Cleaning and refitting of all
 typewriters.	26682a—6.6.906</p>
 
 <p>BLICK TYPEWRITERS, No. 5 £9, No. 7
-£11. W.T. Emmens, 99 Rue Attarine,
-Alexandria, Address, Port Office Box 35.
+£11. W.T. Emmens, <placeName>99 Rue Attarine,
+Alexandria,</placeName> Address, Port Office Box 35.
 80-9-905a</p>
 
 <p>BORMAN & Co.—Suits to measure.; English
@@ -2704,13 +3121,13 @@ Pasha-street.  26967-6 6</p>
 who wish to invest money on land loans,
 buy lands in the Fayoum, or search for
 minerals or antiquities, may obtain accurate
-information from Dr. J. K. Gabril. Fayoum
+information from Dr. <persName>J. K. Gabril</persName>. Fayoum
 (sixteen years’ experience of the province and
 the desert around).	26818-40-20</p>
 
 <p>CAIRO.—To let, furnished or unfurnished, a
-pretty villa. Apply to M. Daressy, 17,
-Milton-Street near Mounira Palace. Urgent.
+pretty villa. Apply to <persName>M. Daressy</persName>, <placeName>17,
+Milton-Street</placeName> near <placeName>Mounira Palace</placeName>. Urgent.
 2698T-6 3</p>
 
 <p>EXPERIENCED ENGLISHMAN, good pre-
@@ -2781,50 +3198,50 @@ LAXATINE
             </div>
             <div type="page" n="6"> <div><head>PERSONAL AND SOCIAL</head>
 
-<p>Mr. and Lady Victoria Machell left Mar-
-seilles on Friday by the Orient-Pacific liner
-Ortona for Egypt.</p>
+<p>Mr. and <persName>Lady Victoria Machell</persName> left <placeName>Mar-
+seilles</placeName> on Friday by the Orient-Pacific liner
+Ortona for <placeName>Egypt</placeName>.</p>
 
-<p>Prince and Princess Duleep Singh are alsod
+<p><persName>Prince and Princess Duleep Singh</persName> are also
 on the Ortona.</p>
 
-<p>The Countess of Enniskillen has sailed from
-Marseilles for Egypt by the P. and O.
+<p>The <persName>Countess of Enniskillen</persName> has sailed from
+<placeName>Marseilles</placeName> for <placeName>Egypt</placeName> by the P. and O.
 Britannia.</p>
 
 <p>The King has been pleased to approve of
-Baron von Humboldt-Dachroeden, late German
-Consul at Alexandria, as German Consul-
-General at Capetown for British South Africa.</p>
+<persName>Baron von Humboldt-Dachroeden</persName>, late German
+Consul at <placeName>Alexandria</placeName>, as German Consul-
+General at <placeName>Capetown</placeName> for British South Africa.</p>
 
 <p>We regret to inform our readers that the
-illness from which Sir Elwin Palmer is suffer-
+    illness from which <persName>Sir Elwin Palmer</persName> is suffer-
 ing proves to be an attack of enteric fever,
 though the case is happily not regarded
 serious by the doctors. The utmost sympathy
-is felt for Sir Elwin Palmer prostrated by
+is felt for <persName>Sir Elwin Palmer</persName> prostrated by
 illness, in the middle of his work and the
-season, and for Lady Palmer, on whom must
+season, and for <persName>Lady Palmer</persName>, on whom must
 fall the burden of considerable anxiety and
 trouble.</p>
 
-<p>We are glad to learn that Mr. Aspinall, the
-popular secretary of the Turf Club, Cairo, who
-has been laid up at Al Hayat, Helouan, with
+<p>We are glad to learn that <persName>Mr. Aspinall</persName>, the
+popular secretary of the <placeName>Turf Club, Cairo</placeName>, who
+has been laid up at <placeName>Al Hayat, Helouan</placeName>, with
 a severe attack of gout, is now making steady
 progress towards recovery. It will be some
 little time, however, before he will be fit to
 resume his duties.</p>
 
-<p>Sir Charles Metcalfe has arrived from South
-Africa at the Savoy Hotel, Cairo.</p>
+<p><persName>Sir Charles Metcalfe</persName> has arrived from <placeName>South
+Africa</placeName> at the <placeName>Savoy Hotel, Cairo</placeName>.</p>
 
-<p>H. H. Prince Ibrahim Pasha Halim and
-Herr von Mohl were among the passengers
+<p><persName>H. H. Prince Ibrahim Pasha Halim</persName> and
+<persName>Herr von Mohl</persName> were among the passengers
 who arrived yesterday by the Austrian mail.</p>
 
-<p>We regret to announce the death of Saleh
-Bay Heddeni, a member of the Alexandria
+<p>We regret to announce the death of <persName>Saleh
+Bay Heddeni</persName>, a member of the Alexandria
 Municipal Council, which took place on Sunday
 morning. Deceased was one of the mem-
 bers of the Alexandria Municipality nominated
@@ -2832,18 +3249,18 @@ by the Government. The funeral took place
 yesterday.</p>
 
 <p>The following passengers left for the Nile by
-the Nefertari on Friday: — Mr. A. Mee, Miss
-Mee, Mr. and Mrs. Kirkitirp, Shakir Bey Gazzel,
-Mme Shakir Gazzal, Miss Malvany, Miss E
-Malvany, Mr. and Mrs. Bollotte, Mr. Hay, Mr.
-Dyer, Miss F. A. Tayleur, Mr. and Mrs. Frank.</p>
+the Nefertari on Friday: — <persName>Mr. A. Mee</persName>, <persName>Miss
+Mee</persName>, <persName>Mr. and Mrs. Kirkitirp</persName>, <persName>Shakir Bey Gazzel</persName>,
+<persName>Mme Shakir Gazzal</persName>, <persName>Miss Malvany</persName>, <persName>Miss E
+Malvany</persName>, <persName>Mr. and Mrs. Bollotte</persName>, <persName>Mr. Hay</persName>, <persName>Mr.
+Dyer</persName>, <persName>Miss F. A. Tayleur</persName>, <persName>Mr. and Mrs. Frank</persName>.</p>
 
 <p>The following were the passengers by the
-P. S. Amenartas yesterday: —Dr and Mrs.
-Weleminsky, Mr. and Mrs. Howkins, Mr. L.
-Liebenthal, Miss E. Liebenthal, M. Thomas
-Inglis, Mr. Samuel Cohen, Mr. and Mrs. G.
-Watson, Mr. and Mrs. Heinrich Mayer.</p></div>
+P. S. Amenartas yesterday: —<persName>Dr and Mrs.
+Weleminsky</persName>, <persName>Mr. and Mrs. Howkins</persName>, <persName>Mr. L.
+Liebenthal</persName>, <persName>Miss E. Liebenthal</persName>, <persName>M. Thomas
+Inglis</persName>, <persName>Mr. Samuel Cohen</persName>, <persName>Mr. and Mrs. G.
+Watson</persName>, <persName>Mr. and Mrs. Heinrich Mayer</persName>.</p></div>
 
 <div><head>CAIRO SEASON FIXTURES</head>
 
@@ -2952,7 +3369,7 @@ l'affaire du “Cairo”.</p>
 <p>En voici les principaux attendus.</p>
 
 <p>Attendu que la Societe Generale de Navi-
-gation Italieone Florio Rubattino ayant fait
+gation Italieone F<persName>lorio Rubattino</persName> ayant fait
 abandon du navire et du fret, les demandeurs
 ont conolu a la nomination du Sieur Prencipi
 deja nomme tiers consiguataire du navire
@@ -2964,7 +3381,7 @@ en meme temps la fixation du montant du
 pejudice materiel et moral subi par suite du
 nanfrage;</p>
 
-<p>Attendu que la Societe Florio Rubattino
+<p>Attendu que la Societe <persName>Florio Rubattino</persName>
 declare que par suite de l’abandon elle n’a
 pas de conclusions a prendre du chef de la
 liquidation des sommes reclamees a titre de
@@ -3017,13 +3434,13 @@ N' 3036 jusqu’a 3034, 3056, 3058, 5295 jusqu’a
 5324 de la XXXeme annee et statuant par un
 seal et meme jugement;</p>
 
-<p>Donne acte aux Sieurs Edward L. Lawrence,
-De Blauche L. Lawrence, De Vve Elizabeth C.
-Whiting, Sieur von Alten, Dr Hugo Wernicke
+<p>Donne acte aux Sieurs <persName>Edward L. Lawrence</persName>,
+<persName>De Blauche L. Lawrence</persName>, <persName>De Vve Elizabeth C.
+Whiting</persName>, S<persName>ieur von Alten</persName>, <persName>Dr Hugo Wernicke</persName>
 de leur intervention ;</p>
 
 <p>Donne acte a la Societe Generale de Na-
-vigation Italienne Florio Rubattino qu’elle
+vigation Italienne <persName>Florio Rubattino</persName> qu’elle
 n'a pas de conclusions a prendre sur la liqui-
 dation des creances des demandeurs du chef de
 la perte de leurs effets ou dommages moraux
@@ -3036,7 +3453,7 @@ tion du net produit du navire echoue “Cairo"
 et du fret abandonne;</p>
 
 <p>Liquide les creances des demandeurs et des
-intervenants von Alten et Wernicke en les re-
+intervenants <persName>von Alten et Wernicke</persName> en les re-
 duisant aux sommes suivantes... (suit une
 liste complete et detaillee des demandeurs
 avec le montant de leurs indemnites respec-
@@ -3064,8 +3481,8 @@ diligente.</p>
 
 (Signe De Zoltan.
 
-Ce jugement accorde a Ermete Novelli
-une somme de 75000 francs et a Olga Giannini
+Ce jugement accorde a <persName>Ermete Novelli</persName>
+une somme de 75000 francs et a <persName>Olga Giannini</persName>
 une autre somme de 40000 francs. Le total
 general des indemnites est d’environ 200,000
 francs.</p></div>
@@ -3080,7 +3497,7 @@ suivant:</p>
 <p>1.—Budget de 1906.
 2.—Rapport du Comite des Plantations sur
 la projet des parcs et jardins.
-3.—Interpellation de Monsieur Zouro sur
+3.—Interpellation de <persName>Monsieur Zouro </persName>sur
 diverses questions.
 4.—Proposition de principe tendent a la
 construction d’un destructeur d'immondices.
@@ -3105,9 +3522,9 @@ nomiques" presente par la Commission Inter-
 nationale des Locataires, at a, seance tenante,
 afin de mieux etudier, apprecier et resoudre
 la question vitale des loyers, nomme un
-Comite special compose de MM. Fenderl,
-Mansour Bey Youssef, Zervudachi et Chataway
-Bey.</p>
+Comite special compose de <persName>MM. Fenderl</persName>,
+<persName>Mansour Bey Youssef</persName>, <persName>Zervudachi et Chataway
+Bey</persName>.</p>
 
 <p>Ce faisant, la Municipalite d’Alexandrie,
 consciente des justes plaintss qui a’elevent
@@ -3178,42 +3595,42 @@ le resultat.</p></div>
 
 <head>HOTEL DU NIL, CAIRO.</head>
 
-<p>Mr. A. Auerbach, Paris; Herr Ottmar Soer-
-gel, Gmunr; Herr and Frau Kortenhaus,
-Alexandria; Mr. L. M. Stone; U. S. A.; Mr.
-B. Manson, England ; Herr O. Freudeuberg,
-Weinheim; Herr L. Meister, Berlin ; Herr T.
-Fuchs, St. Gall, Switzerland; Herr E Deutsch,
-Herr Ernst Brod, Vienna; Herr Arnold Goariz,
-Cologne; Herr Julias Werthar, Cassel; Herr
-R. Sonneuthal, Berlin ; Mr. Andre Le Breton,
-Rouen; Mme Dufour, France ; Mr. Bavastre,
-Marseilles; Herr H. Fischer, Cassel ; Herr
-Otto Marx, Frankiost; Herr Carl Behrens,
-Alfeid ; Herr H. Gockel, Hoster; Herr P.
-Rsabe, Matatatt; Moh. Mazloum, Dongola ;
-Herr G. Meyerhof, Port Said ; Hen W. Sigel,
-Mannheim ; Mme Ida Boy-Ed, Lubeck ; Mr.
-Walton; England ; Herr C. Kley, Plauen.; Dr.
-Prof. Fordemann, Berlin; Mr. R. M. Appleton,
-Boston; Mr. Sidney P. Hall, London ; Mr.
-Arwed Krug, Lyons ; Mr. Richard Forti, Alex-
-andria ; Herr P. A. Klimet, Elberfeld ; Herr I.
-Schmidt, Antwerp; Dr. Phil Rud. Ludwig and
-Frau Herr and Miss L. Bewar, Vienna; Mr.
-Walter W. Davies, Birmingham; Mr. C. B. Has-
-sanl, Capetown ; Prof and Miss Z. Beothy and
-Miss, Budapest; Herr and Frau Hich Meyer,
-Herr Ludwig Schmidt, Vienna; Herr Max
-Lehmann, Bohemia; Herr Alex. Sibiriakoff,
-Irkoufztz ; Miss B. Sohloch, Switzerland ; Herr
-Herm. Boshm, Paris ; Dr. Karl Lion, Vienna ;
-Herr H. Holtzmann, Kararuhe ; Herr Lasso
-Fuchs, Alexandria; Mrs. F. B. Wilde, Miss
-Dr. Kate Wilde, California; T. C. Howard,
-England; Herr Arpad Kaunitz, Vienna ; Mr.
-Robin Frederic, Romans; Mr. J. W. and Mrs.
-Craig, Mr.Edw. Steele, Herr E Weil, England.</p></div>
+<p><persName>Mr. A. Auerbach</persName>, <placeName>Paris</placeName>; <persName>Herr Ottmar Soer-
+gel</persName>, <placeName>Gmunr</placeName>; <persName>Herr and Frau Kortenhaus</persName>,
+<placeName>Alexandria</placeName>; <persName>Mr. L. M. Stone</persName>;<placeName> U. S. A.</placeName>; <persName>Mr.
+B. Manson</persName>, <placeName>England</placeName> ; <persName>Herr O. Freudeuberg</persName>,
+<placeName>Weinheim</placeName>; <persName>Herr L. Meister</persName>, <placeName>Berlin</placeName> ; <persName>Herr T.
+Fuchs</persName>, <persName>St. Gall</persName>, <placeName>Switzerland</placeName>; <persName>Herr E Deutsch</persName>,
+<persName>Herr Ernst Brod</persName>, <placeName>Vienna</placeName>; <persName>Herr Arnold Goariz</persName>,
+<placeName>Cologne</placeName>; <persName>Herr Julias Werthar</persName>, <placeName>Cassel</placeName>; <persName>Herr
+R. Sonneuthal</persName>, <placeName>Berlin</placeName> ; <persName>Mr. Andre Le Breton</persName>,
+<placeName>Rouen</placeName>; <persName>Mme Dufour</persName>, <placeName>France</placeName> ; <persName>Mr. Bavastre</persName>,
+<placeName>Marseilles</placeName>; <persName>Herr H. Fischer</persName>, <placeName>Cassel</placeName> ; <persName>Herr
+Otto Marx</persName>, <placeName>Frankiost</placeName>; <persName>Herr Carl Behrens</persName>,
+<placeName>Alfeid</placeName> ; <persName>Herr H. Gockel</persName>, <placeName>Hoster</placeName>; <persName>Herr P.
+Rsabe</persName>, <placeName>Matatatt</placeName>; <persName>Moh. Mazloum</persName>, <placeName>Dongola</placeName> ;
+<persName>Herr G. Meyerhof</persName>, <placeName>Port Said</placeName> ; <persName>Hen W. Sigel</persName>,
+<placeName>Mannheim</placeName> ; <persName>Mme Ida Boy-Ed</persName>, <placeName>Lubeck</placeName> ; <persName>Mr.
+Walton</persName>; <placeName>England</placeName> ; <persName>Herr C. Kley</persName>, <placeName>Plauen</placeName>.; <persName>Dr.
+Prof. Fordemann</persName>, <placeName>Berlin</placeName>; <persName>Mr. R. M. Appleton</persName>,
+<placeName>Boston</placeName>; <persName>Mr. Sidney P. Hall</persName>, <placeName>London</placeName> ; <persName>Mr.
+Arwed Krug</persName>, <placeName>Lyons</placeName> ; <persName>Mr. Richard Forti</persName>, <placeName>Alex-
+andria</placeName> ; <persName>Herr P. A. Klimet</persName>, <placeName>Elberfeld</placeName> ; <persName>Herr I.
+Schmidt</persName>, <placeName>Antwerp</placeName>; <persName>Dr. Phil Rud. <placeName>Ludwig</placeName></persName> and
+<persName>Frau Herr</persName> and <persName>Miss L. Bewar</persName>, <placeName>Vienna</placeName>; <persName>Mr.
+Walter W. Davies</persName>, <placeName>Birmingham</placeName>; <persName>Mr. C. B. Has-
+sanl</persName>, <placeName>Capetown</placeName> ; <persName>Prof and Miss Z. Beothy</persName> and
+Miss, <placeName>Budapest</placeName>; <persName>Herr and Frau Hich Meyer</persName>,
+<persName>Herr Ludwig Schmidt</persName>, <placeName>Vienna</placeName>; <persName>Herr Max
+Lehmann</persName>, <placeName>Bohemia</placeName>; <persName>Herr Alex. Sibiriakoff</persName>,
+<placeName>Irkoufztz</placeName> ; <persName>Miss B. Sohloch</persName>, <placeName>Switzerland</placeName> ; <persName>Herr
+Herm. Boshm</persName>, <placeName>Paris</placeName> ; <persName>Dr. Karl Lion</persName>, <placeName>Vienna</placeName> ;
+<persName>Herr H. Holtzmann</persName>, <placeName>Kararuhe</placeName> ; <persName>Herr Lasso
+Fuchs</persName>, <placeName>Alexandria</placeName>; <persName>Mrs. F. B. Wilde</persName>, <persName>Miss
+Dr. Kate Wilde</persName>, <placeName>California</placeName>; <persName>T. C. Howard</persName>,
+England; <persName>Herr Arpad Kaunitz</persName>, <placeName>Vienna</placeName> ; <persName>Mr.
+Robin Frederic</persName>, <placeName>Romans</placeName>; <persName>Mr. J. W. and Mrs.
+Craig</persName>, <persName>Mr.Edw. Steele</persName>, <persName>Herr E Weil</persName>, <placeName>England</placeName>.</p></div>
 
 <div><head>Khedivial Mail Steamship and Graving
 Dock Company, Limited.</head>
@@ -3241,69 +3658,69 @@ Alexandria, 31st December, 1905</p></div>
 <p>Per S.S. Singapore of the Florio Rubattino
 arrived on Sunday from Genoa and Messina:-</p>
 
-<p>M. D. Grigoire, M. Blinstein, M. Cicognotto,
-M. W. H. Garther and family, M. P. Granchis,
-M. Carrell and sons, M. P. Zucchi, Count and
-Countess da la Faille, M. Robins, M. Cham-
-balan, M. Biancolini, M. E. Chemla, M. Billings,
-M. Cipriotti and family, M. Miconzai, M. and
-Mme Ojetti, Mr. Drallen and sons, Rev. Father
-Ludovico, Mgr. D’Angrogus, Mr. Roberts
-West, M. and Mme Conti Gino, Mr. Barton,
-M. Galperisi, M. Pedoy and comp., and 100
+<p><persName>M. D. Grigoire</persName>, <persName>M. Blinstein</persName>, <persName>M. Cicognotto</persName>,
+<persName>M. W. H. Garther and family</persName>, <persName>M. P. Granchis</persName>,
+<persName>M. Carrell and sons</persName>, <persName>M. P. Zucchi</persName>, <persName>Count and
+Countess da la Faille</persName>, <persName>M. Robins</persName>, <persName>M. Cham-
+balan</persName>, <persName>M. Biancolini</persName>, <persName>M. E. Chemla</persName>, <persName>M. Billings</persName>,
+<persName>M. Cipriotti and family</persName>, <persName>M. Miconzai</persName>, <persName>M. and
+Mme Ojetti</persName>, <persName>Mr. Drallen and sons</persName>, <persName>Rev. Father
+Ludovico</persName>, <persName>Mgr. D’Angrogus</persName>, <persName>Mr. Roberts
+West</persName>, <persName>M. and Mme Conti Gino</persName>, <persName>Mr. Barton</persName>,
+<persName>M. Galperisi</persName>, <persName>M. Pedoy and comp.</persName>, and 100
 third class passengers.</p>
 
 <p>Per S.S. Portugal of the Messageries Mari-
-times arrived this morning from Marseilles:
-Capt. Hint, M. Holman, Prince Ali Halim and
-family, Mr. Holmes, M. J. de Sinety, Mme de
-Sinety and child, M. D. Afif, M. A. Vibaux,
-M. Bechet, M. Escoffier, M. Cattaneo, M.
-Plendrin, Mme Belle, Mme Deturines and
-child, M. Mallet, Mr. Latham, M. Beraud, Mme
-Berand, Mme Subercazeaux, M. Subercazeaux,
-M. de Barrot, M. de Beaucorps, M. Lejeune,
-M. and Mme Cottrell, M. Chazeau, M. Com-
-prani, Mme Darcier, Mme Denenbourg, M.
-Constantinidis, M. G. N. Adabashian, Mme
-Barriere Bey, M. Marcel Poulet, M. Caridi,
-Mr. and Mme Birch, and 40 third and
+times arrived this morning from <placeName>Marseilles</placeName>:
+<persName>Capt. Hint</persName>, <persName>M. Holman</persName>, <persName>Prince Ali Halim and
+family</persName>, <persName>Mr. Holmes</persName>, <persName>M. J. de Sinety</persName>, <persName>Mme de
+Sinety and child</persName>, <persName>M. D. Afif</persName>, <persName>M. A. Vibaux</persName>,
+<persName>M. Bechet</persName>, <persName>M. Escoffier</persName>, <persName>M. Cattaneo</persName>, <persName>M.
+Plendrin</persName>, <persName>Mme Belle</persName>, <persName>Mme Deturines and
+child</persName>, <persName>M. Mallet</persName>, <persName>Mr. Latham</persName>, <persName>M. Beraud</persName>, <persName>Mme
+Berand</persName>, <persName>Mme Subercazeaux</persName>, <persName>M. Subercazeaux</persName>,
+<persName>M. de Barrot</persName>, <persName>M. de Beaucorps</persName>, <persName>M. Lejeune</persName>,
+<persName>M. and Mme Cottrell</persName>, <persName>M. Chazeau</persName>, <persName>M. Com-
+prani</persName>, <persName>Mme Darcier</persName>, <persName>Mme Denenbourg</persName>, <persName>M.
+Constantinidis</persName>, <persName>M. G. N. Adabashian</persName>, <persName>Mme
+Barriere Bey</persName>, <persName>M. Marcel Poulet</persName>,<persName> M. Caridi</persName>,
+<persName>Mr. and Mme Birch</persName>, and 40 third and
 fourth classes passengers.</p>
 
 <p>Per S.S. Habsburg of the Austrian Lloyd
-arrived yesterday from Trieste and Brin
-disi :— Dr. Albert Hirsch, Mme Hirsch,
-Mme Helene Wolf, Carl Baron de Beckendorff,
-Baroness de Seckendorff, Baroness Dober-
-zensky, M. Soiver, M. Kervian, M. Malove,
-Comm. and Mme Vivante, M. L. David, M.
-Dailapiazza, Mme Stamch, M. Reichenfeld, Dr.
-Bristenfeld, M. and Mme Metana, Mr. Longleth,
-M. Levi, Baron Heinze, M. Lasson, Mn. Carey,
-M. Terracina, Mme Oberhoff, M. and Mme
-Waldmeier, M. and Mme Weinberger, Mme
-Bemung, M. Holden and family, M. Binder-
-nagel, Her von Mohl, Mme de Cary, Mme
-Noele, M. Hosberg, M. and Mme Schway, M.
-Gloescher, M. Schneider and comp., M. Flasch,
-M. Hagymassy, M. Theimer, H. H. Ibrahim
-Pacha Halim, M. Pilz, M. Strosburger, M.
-O. A. Gardener, M. and Madame Lederer,
-Mr. H. Longstreth, Mr. and Mrs. Ripley,
-Baron de Menasce, and 22 third class passen-
+arrived yesterday from <placeName>Trieste</placeName> and <placeName>Brin
+disi</placeName> :— <persName>Dr. Albert Hirsch</persName>, <persName>Mme Hirsch</persName>,
+<persName>Mme Helene Wolf</persName>, <persName>Carl Baron de Beckendorff</persName>,
+<persName>Baroness de Seckendorff</persName>, <persName>Baroness Dober-
+zensky</persName>,<persName> M. Soiver</persName>, <persName>M. Kervian</persName>, <persName>M. Malove</persName>,
+<persName>Comm. and Mme Vivante</persName>, <persName>M. L. David</persName>, <persName>M.
+Dailapiazza</persName>, <persName>Mme Stamch</persName>, <persName>M. Reichenfeld</persName>, <persName>Dr.
+Bristenfeld</persName>, <persName>M. and Mme Metana</persName>, <persName>Mr. Longleth</persName>,
+<persName>M. Levi</persName>, <persName>Baron Heinze</persName>, <persName>M. Lasson</persName>, <persName>Mn. Carey</persName>,
+<persName>M. Terracina</persName>, <persName>Mme Oberhoff</persName>, <persName>M. and Mme
+Waldmeier</persName>, <persName>M. and Mme Weinberger</persName>, <persName>Mme
+Bemung</persName>, <persName>M. Holden and family</persName>, <persName>M. Binder-
+nagel</persName>, <persName>Her von Mohl</persName>, <persName>Mme de Cary</persName>, <persName>Mme
+Noele</persName>, <persName>M. Hosberg</persName>, <persName>M. and Mme Schway</persName>, <persName>M.
+Gloescher</persName>, <persName>M. Schneider and comp</persName>., <persName>M. Flasch</persName>,
+<persName>M. Hagymassy</persName>, <persName>M. Theimer</persName>, <persName>H. H. Ibrahim
+Pacha Halim</persName>, <persName>M. Pilz</persName>, <persName>M. Strosburger</persName>, <persName>M.
+O. A. Gardener</persName>, <persName>M. and Madame Lederer</persName>,
+<persName>Mr. H. Longstreth</persName>, <persName>Mr. and Mrs. Ripley</persName>,
+<persName>Baron de Menasce</persName>, and 22 third class passen-
 gers.</p>
 
 <head>DEPARTURES.</head>
 
 <p>Per S.S. “Cleopatra" sailed on Saturday for
-Brindisi and Trieste : — M. A. de Staercke,
-Capt Ricolli, Mr. F. R. Barker, M. Oberdorier,
-M. Chalekiopoulos, M. A. G. Ritter, M and
-Mme Harsant, Miss Vernon, Count Margani,
-M. Holtzmann, M. Tuholske, M. Ritter von
-Dittel, M. B. Brandy, M. H. Eugel, M. Er.
-Roth, M. Hadjes, M. Bruno, M.Ruschner, Mme
-Fortunata Levi, M. M. Mordo, and 14 third
+<placeName>Brindisi</placeName> and <placeName>Trieste</placeName> : — <persName>M. A. de Staercke</persName>,
+<persName>Capt Ricolli</persName>, <persName>Mr. F. R. Barker</persName>, <persName>M. Oberdorier</persName>,
+<persName>M. Chalekiopoulos</persName>, <persName>M. A. G. Ritter</persName>, <persName>M and
+Mme Harsant</persName>, <persName>Miss Vernon</persName>, <persName>Count Margani</persName>,
+<persName>M. Holtzmann</persName>, <persName>M. Tuholske</persName>, <persName>M. Ritter von
+Dittel</persName>, <persName>M. B. Brandy</persName>, <persName>M. H. Eugel</persName>, <persName>M. Er.
+Roth</persName>,<persName> M. Hadjes</persName>, <persName>M. Bruno</persName>, <persName>M.Ruschner</persName>, <persName>Mme
+Fortunata Levi</persName>, <persName>M. M. Mordo</persName>, and 14 third
 class passengers.</p></div>
 
 <div type="item"><head>Calendar of Coming Events</head>
@@ -3311,45 +3728,45 @@ class passengers.</p></div>
 <p>Alexandria
 
 December
-Tues. 26   Parish Room, Bulkeley. "The Desert
+Tues. 26   <placeName>Parish Room, Bulkeley</placeName>. "The Desert
 of Sinai," by Dr. Ruffer, C.M.G.
 5.30.
-Zizinia Theatre. Italian opera com-
+<placeName>Zizinia Theatre</placeName>. Italian opera com-
 pany in Fedora 9.
-Alhambra. French operetta company
+<placeName>Alhambra</placeName>. French operetta company
 in Les Mousquetaires au Couvent.
 9.15.
 Fri. 29   Merchant Seamen's Home. 'Xmas
 Treat.
-Parish Room, Bulkely. Concert. 9.
-Sat. 30   Moharrem Bey Common. St. Andrew's
+<placeName>Parish Room, Bulkely</placeName>. Concert. 9.
+Sat. 30   <placeName>Moharrem Bey Common</placeName>. St. Andrew's
 1st Eleven v. 2nd Eleven. 3:30.
 Mustapha Rifle Range. Practice
 B.R.C. Weather permitting. 2.30.</p>
 
-<p>Cairo
+<p><placeName>Cairo</placeName>
 
 December
-Tues. 26   Khedivial Opera House. French co-
+Tues. 26   <placeName>Khedivial Opera House</placeName>. French co-
 medy company. 9.
-Theatre des Nouveautes. 9.30.
-Alcazar Parisian. 9.30.
-Mena House Hotel. Small Dance.
-National Hotel, Small Dance. 9.30.
-Thurs. 28   Khedivial Opera House. Antar 9.
-Ghezireh Palace. Small Dance.
-Mena House. Bracale Orchestra.
+<placeName>Theatre des Nouveautes</placeName>. 9.30.
+<placeName>Alcazar Parisian</placeName>. 9.30.
+<placeName>Mena House Hotel</placeName>. Small Dance.
+<placeName>National Hotel</placeName>, Small Dance. 9.30.
+Thurs. 28   <placeName>Khedivial Opera House</placeName>. Antar 9.
+<placeName>Ghezireh Palace</placeName>. Small Dance.
+<placeName>Mena House</placeName>. Bracale Orchestra.
 Small Dance.
 Fri. 29   Ghezireh F.C. v. M.M.P.
 Zoological Gardens, Ghizeh Boys'
 Band. Afternoon
 Railway Institure v. H. Co. Innis
 Fus. Kick off 3 at Ghezireh Badrance
-Sat. 30   Savoy Hotel Small Dance. 10 p.m.
-Sun. 31   Zoological Gardens. E.A. Infantry
+Sat. 30   <placeName>Savoy Hotel</placeName> Small Dance. 10 p.m.
+Sun. 31   <placeName>Zoological Gardens</placeName>. E.A. Infantry
 band, Afternoon.
 January.
-Mon. 1 Shepheard's. Small Dance.</p></div>
+Mon. 1 <placeName>Shepheard's</placeName>. Small Dance.</p></div>
 
 
 
@@ -3455,12 +3872,12 @@ sous peine de folle enchere pour compte de
 l'adjudicataire.</p>
 
 <p>L'Administrateur
-(Signe) E.P. CHATAWAY
+(Signe) <persName>E.P. CHATAWAY</persName>
 Alexandrie, le 19 Decembre 1905.</p></div>
 
 <div><head>SHIPPING MOVEMENTS.</head>
 
-<p>Alexandria Harbour
+<p><placeName>Alexandria Harbour</placeName>
 
 ARRIVALS.
 Dec. 23.
@@ -3961,15 +4378,15 @@ between Egypt and the various points at which
 you may arrive in Europe.</p>
 
 <p>This depends partly upon the month in
-which you leave Egypt, for Cairo in January
-may be a little warmer than the Riviera, and
-possibly not so warm as Sicily, but in March
-it will be warmer than Rome, and more uni-
+which you leave Egypt, for <placeName>Cairo</placeName> in January
+may be a little warmer than the <placeName>Riviera</placeName>, and
+possibly not so warm as <placeName>Sicily</placeName>, but in March
+it will be warmer than <placeName>Rome</placeName>, and more uni-
 formly warm than many other places in Europe.
 Many people leave Egypt far too early in the
 year; for as a rule the weather in April and
 May is perfect. The warmest place to go to
-on leaving Egypt is Sicily.</p>
+on leaving Egypt is <placeName>Sicily</placeName>.</p>
 
 <p>Some will want to take into consideration
 the number of days to be spent at sea, and we
@@ -3979,21 +4396,21 @@ Egypt and the Continent of Europe.</p>
 
 <p>They are as follows :-</p>
 
-<p>The long sea routes-from Port Said or
-Alexandria to Plymouth, Southampton, London
-or Liverpool-occupy about 14 days. The
+<p>The long sea routes-from <placeName>Port Said</placeName> or
+<placeName>Alexandria</placeName> to <placeName>Plymouth</placeName>, <placeName>Southampton</placeName>, <placeName>London</placeName>
+or <placeName>Liverpool</placeName>-occupy about 14 days. The
 short ones are as follows:-</p>
 
-<p>Port Said or ALexandria to Brindisi   3 days
-Alexandria to Messina... ... ...      3 "
-Port Said or Alexandria to Marseilles 5 "
-Alexandria to Venice and Trieste      4 "
-Alexandria to Naples... ...           3 "
-Port Said to Genoa  ... ... ...       5 "
-Port Said to Naples... ... ...        4 "
-Alexandria to Constantinople ...      4 "
-Alexandria to Piraeus ... ... ...     2 "
-Port Said to Gibraltar... ... ...     7 "</p>
+<p>Port Said or ALexandria to <placeName>Brindisi</placeName>   3 days
+Alexandria to <placeName>Messina</placeName>... ... ...      3 "
+Port Said or Alexandria to <placeName>Marseilles</placeName> 5 "
+Alexandria to <placeName>Venice</placeName> and <placeName>Trieste</placeName>      4 "
+Alexandria to <placeName>Naples</placeName>... ...           3 "
+Port Said to <placeName>Genoa</placeName>  ... ... ...       5 "
+Port Said to <placeName>Naples</placeName>... ... ...        4 "
+Alexandria to <placeName>Constantinople</placeName> ...      4 "
+Alexandria to <placeName>Piraeus</placeName> ... ... ...     2 "
+Port Said to <placeName>Gibraltar</placeName>... ... ...     7 "</p>
 
 <p>The steamers, of the P. & 0. North German
 Lloyd, Orient and Messageries Mari times
@@ -4002,16 +4419,16 @@ and Bibby Lines are also excellent, and their
 steamers are largely patronised by travellers
 to Egypt.</p>
 
-<p>As regards the train journeys from Cairo,
-the shortest is that to Alexandria, without
-change (3 hours). That to Port Said, can now
+<p>As regards the train journeys from <placeName>Cairo</placeName>,
+the shortest is that to <placeName>Alexandria</placeName>, without
+change (3 hours). That to <placeName>Port Said</placeName>, can now
 be made without change in 4 1/2 hours.</p>
 
 <p>The least expensive way to England is by
 the Moss, Papayanni, Prince, and Westcott
-lines of steamers from Alexandria to Liverpool.
+lines of steamers from <placeName>Alexandria</placeName> to <placeName>Liverpool</placeName>.
 The German Levant line has also good steamers
-from Alexandria to Hamburg.</p>
+from <placeName>Alexandria</placeName> to <placeName>Hamburg</placeName>.</p>
 
 <p>The most expensive but quickest through
 Continental routes are by P. & O. Brindisi
@@ -4027,23 +4444,23 @@ deliver packages to any address in Europe.</p>
 
 <p>The quickest manner of getting to Europe
 from Port Said is undoubtedly by the fast
-Mail Steamers "Osiris" and "Isis" to Brindisi.
+Mail Steamers "Osiris" and "Isis" to <placeName>Brindisi</placeName>.
 One of these leaves Port Said every week, as
 soon as possible after receiving the Indian
-mails from the great liner arrived from Bombay.</p>
+mails from the great liner arrived from <placeName>Bombay</placeName>.</p>
 
 <p>These small but comfortable ships have
 enormously powerful engines, and attain a
 very high rate of speed. They are called the
 "ferry boats," having been specially built to
-carry the British mail from Port Said to
-Brindisi. If you are going straight through to
-England you will find the train waiting at
-Brindisi which will take you to Calais without
+carry the British mail from <placeName>Port Said</placeName> to
+<placeName>Brindisi</placeName>. If you are going straight through to
+<placeName>England</placeName> you will find the train waiting at
+<placeName>Brindisi</placeName> which will take you to <placeName>Calais</placeName> without
 changing. It has complete arrangements for
 sleeping and eating on board, and you should
 arrive in London on the fifth day from leaving
-Port Said.</p></div>
+<placeName>Port Said</placeName>.</p></div>
 
 
 
@@ -4100,89 +4517,89 @@ HOTEL VICTORIA
 
 <div><head>SICILY.</head>
 
-<p>The direct route to Sicily is by the Florio-
-Rubattino Co.'s steamers which leave Alex-
-andria weekly for MESSINA, where one takes
-train to TAORMINA, one of the most charm-
-ing and popular places on the island. Giardini
+<p>The direct route to <placeName>Sicily</placeName> is by the Florio-
+Rubattino Co.'s steamers which leave <placeName>Alex-
+andria</placeName> weekly for <placeName>MESSINA</placeName>, where one takes
+train to <placeName>TAORMINA</placeName>, one of the most charm-
+ing and popular places on the island. <placeName>Giardini</placeName>
 is he station at which to alight, and the drive
-up to Taormina is most delightful, occupying
+up to <placeName>Taormina</placeName> is most delightful, occupying
 about one hour. In and around the town is
 much to interest the visitor. The theatre is of
 Greek origin, but restored under the Romans.
-CATANIA is the starting place for the ascent
-of Etna and here also is a fine Cathedral. The
+<placeName>CATANIA</placeName> is the starting place for the ascent
+of <placeName>Etna</placeName> and here also is a fine Cathedral. The
 Greek, Roman, and Saracenic remains that
 are found all over the island, are an endless
-sources of pleasure. SYRACUSE has an
+sources of pleasure. <placeName>SYRACUSE</placeName> has an
 interesting history, having been a Greek
 city, which was designed by Demostheues in
 B.C. 413, and taken by the Romans in b.c. 212,
 when Archimedes was slain in his tomb is to be
 seen. The cathedral was once an ancient pagan
-temple. PALERMO, with about 300,000
+temple. <placeName>PALERMO</placeName>, with about 300,000
 inhabitants, is the capital of the Island, and
 enjoys a delightful climate. Much of interest
-is to be found in this fine city. The Polazzo
-Reale is of Saracenic origin and close to it the
-church of S Giovannia degli Eremiti with its
-picturesque cloisters. The Cathedral Museum,
-Botanic Gardens, Villa Giulia and Royal Park
-are also worth a visit.</p>
+is to be found in this fine city. The <placeName>Polazzo
+Reale</placeName> is of Saracenic origin and close to it the
+<placeName>church of S Giovannia degli Eremiti</placeName> with its
+picturesque cloisters. The <placeName>Cathedral Museum</placeName>,
+<placeName>Botanic Gardens</placeName>, <placeName>Villa Giulia</placeName> and <placeName>Royal Park
+are also worth a visit.</p></placeName>
 
 <head>CENTRAL ITALY.</head>
 
 <p>The fine steamers of the North German
-Lloyd leave Alexandria every Wednesday
-during the season for Naples, the voyage
+Lloyd leave <placeName>Alexandria</placeName> every Wednesday
+during the season for <placeName>Naples</placeName>, the voyage
 being only 3 days.</p>
 
-<p>NAPLES is also reached in 10 hours from
-Palermo by the Florio-Rubattino Co.'s steam-
+<p><placeName>NAPLES</placeName> is also reached in 10 hours from
+<placeName>Palermo</placeName> by the Florio-Rubattino Co.'s steam-
 ers, which leave daily. One cannot approach
-Naples or leave it without wishing to explore
+<placeName>Naples</placeName> or leave it without wishing to explore
 some of its island, besides the lovely places
-on its Bay— Castellamare and Sorrento. The
-small steamer that takes you to Sorrento [you
-can drive too] will take you on to Capri.</p>
+on its Bay— <placeName>Castellamare</placeName> and <placeName>Sorrento</placeName>. The
+small steamer that takes you to <placeName>Sorrento</placeName> [you
+can drive too] will take you on to <placeName>Capri</placeName>.</p>
 
-<p>From Naples to ROME is a train journey of
+<p>From <placeName>Naples</placeName> to <placeName>ROME</placeName> is a train journey of
 but five hours. All who can will devote at
 least one week to visiting the many historical
-and interesting portions of the Eternal City,
+and interesting portions of the <placeName>Eternal City</placeName>,
 whose charms and beauties are too well-known
 to need comment here.</p>
 
 <p>Leaving the Eternal City with much regret,
 a railway journey of five hours brings you to
-FLORENCE, where another week can well be
+<placeName>FLORENCE</placeName>, where another week can well be
 spent admiring the City of Flowers and its
-surrounding country. In Florence itself the
+surrounding country. In <placeName>Florence</placeName> itself the
 churches and galleries are of absorbing inte-
 rest, whilst the local promenades and excur-
-sions should not be omitted. The Cascine is
+sions should not be omitted. <placeName>The Cascine</placeName> is
 the most attractive and fashionable promenade
-in Florence, whilst the Viale dei Colli, one of
+in <placeName>Florence</placeName>, whilst the <placeName>Viale dei Colli</placeName>, one of
 the finest walks in Europe, opened 35 years
 ago, goes winding up through the hills a
 distance of four miles. The most delightful
-excursion outside Florence is that to Vallom-
+excursion outside <placeName>Florence</placeName> is that to Vallom-
 brosa; with its Monastery 3,300 feet above the
 sea level. This is made first by ordinary train
-from Florence to St. Ellero, thence by cog-
-wheel railway to Saltino. The ascent through
+from <placeName>Florence</placeName> to <placeName>St. Ellero</placeName>, thence by cog-
+wheel railway to <placeName>Saltino</placeName>. The ascent through
 groves of oaks takes an hour, and most
 striking panoramas are unfolded to view.</p>
 
-<p>PISA is easily reached from Florence in
-about 2 hours ; here there is a fine Cathedral
-and the Leaning Tower. A stay of at least one
+<p><placeName>PISA</placeName> is easily reached from <placeName>Florence</placeName> in
+about 2 hours ; here there is a fine <placeName>Cathedral</placeName>
+and the <placeName>Leaning Tower</placeName>. A stay of at least one
 night should if possible be made, in order to
-enjoy the view from the Campanile at sunset.</p>
+enjoy the view from the <placeName>Campanile</placeName> at sunset.</p>
 
-<p>VIAREGGIO. One of the most delightful
-places on the Italian Riviera near Pisa and on
-the main line from Rome to Genoa. It is a
+<p><placeName>VIAREGGIO</placeName>. One of the most delightful
+places on the <placeName>Italian Riviera</placeName> near <placeName>Pisa</placeName> and on
+the main line from <placeName>Rome</placeName> to <placeName>Genoa</placeName>. It is a
 very convenient half-way house between Egypt
 and England, and where living is reasonable
 and the air and surroundings exceptionally
@@ -4248,42 +4665,42 @@ LAKE OF LUCERNE
 
 <div><head>NORTHERN ITALY</head>
 
-<p>GENOA (La Superba).—The most
+<p><placeName>GENOA</placeName> (La Superba).—The most
 picturesque and interesting city in Italy, with
 the record of having one of the lowest
 death averages of European cities and a
 phenomenally equable temperature—warm in
 winter and deliciously cool breezes from the
-surrounding mountains and the Mediterranean
+surrounding mountains and the <placeName>Mediterranean</placeName>
 in summer.</p>
 
 <p>The patriarchal home of Italy’s most an-
 eient nobility, whose palaces, gardens, and
 famous collections of statuary, frescoes, and
 paintings, are a constant delight to thousands
-of travellers who annually sojourn in Genoa.
+of travellers who annually sojourn in <placeName>Genoa</placeName>.
 Then there are the superbly decorated medie-
 val churches containing exquisite marble
 columns and historical paintings, and the in-
-comparable Campo Santo filled with its won-
+comparable <placeName>Campo Santo</placeName> filled with its won-
 derful tombs.</p>
 
-<p>From Genoa to Milan is a matter of only
+<p>From <placeName>Genoa</placeName> to <placeName>Milan</placeName> is a matter of only
 three hours by rail.</p>
 
-<p>MILAN is a good centre for Northern Italy
+<p><placeName>MILAN</placeName> is a good centre for Northern Italy
 before making the tour of the Lakes. The
 Cathedral is the principal attraction, with its
 beautiful windows illustrating the History of
 the Bible. The public gardens and the monu-
 mental cemetery are also worth a visit.</p>
 
-<p>Between Bologna and Milan and only an
-hour and-a-half from Milan is SALSOMAG-
-GIORE, a renowned health resort on account
-of its thermal springs, change trains at Borgo
-San Domingo and in half-an-hour you are at
-Salsomaggiore.</p>
+<p>Between <placeName>Bologna</placeName> and <placeName>Milan</placeName> and only an
+hour and-a-half from <placeName>Milan</placeName> is <placeName>SALSOMAG-
+GIORE</placeName>, a renowned health resort on account
+of its thermal springs, change trains at <placeName>Borgo
+San Domingo</placeName> and in half-an-hour you are at
+<placeName>Salsomaggiore</placeName>.</p>
 
 
 
@@ -4291,131 +4708,131 @@ Salsomaggiore.</p>
 and
 The ITALIAN LAKES.</head>
 
-<p>VENICE is a 5 hours journey by rail from
-Milan, and one of the most delightful places
+<p><placeName>VENICE</placeName> is a 5 hours journey by rail from
+<placeName>Milan</placeName>, and one of the most delightful places
 imaginable to pass a quiet stay. The total
 absence of vehicular traffic strikes one as very
 strange; no horse, cart, carriage or bicycle is
 to be seen, and yet there is the sound of life
-at every turn. The approach to Venice from
-the Adriatic is unlike that of any other sea-
+at every turn. The approach to <placeName>Venice</placeName> from
+<placeName>the Adriatic</placeName> is unlike that of any other sea-
 port. The town seems to be gradually, like
 Aphrodite, born of the sea, no hills behind, no
-stretches of rock, but the first the tops of Cam-
-paniles appear above the horizon, then slowly
+stretches of rock, but the first the tops of <placeName>Cam-
+paniles</placeName> appear above the horizon, then slowly
 the whole glittering town rises like a fairy
 mirage out of the calm lagoon.</p>
 
-<p>Going northwards from Milan you make the
+<p>Going northwards from <placeName>Milan</placeName> you make the
 tour of the beautiful Italian lakes.</p>
 
-<p>COMO, the birthplace of the younger Pliny,
+<p><placeName>COMO</placeName>, the birthplace of the younger Pliny,
 is reached in one-and-a-quarter hours by train
-by way of Monza.</p>
+by way of <placeName>Monza</placeName>.</p>
 
-<p>Boats leave Como frequently for the other
+<p>Boats leave <placeName>Como</placeName> frequently for the other
 towns on the lake, which is very beautiful, and
 the scenery on either side going up the lake is
-most enchanting. CERNOBBIO is a charming
-spot; then come Tremezzo, Cadenabbia, and
-Menaggio with the prettily-situated town of
-Bellaggio opposite. The walk from Tremezzo
-along the shore of the lake to Managgio is most
-enjoyable. A steam tram runs from Menaggio
-to Porlezza on Lake Lugano in three-quarters
-of an hour, then steamer to Lugano in two-and-
+most enchanting. <placeName>CERNOBBIO</placeName> is a charming
+spot; then come <placeName>Tremezzo</placeName>, <placeName>Cadenabbia</placeName>, and
+<placeName>Menaggio</placeName> with the prettily-situated town of
+<placeName>Bellaggio</placeName> opposite. The walk from <placeName>Tremezzo</placeName>
+along the shore of the lake to <placeName>Managgio</placeName> is most
+enjoyable. A steam tram runs from <placeName>Menaggio</placeName>
+to <placeName>Porlezza</placeName> on <placeName>Lake Lugano</placeName> in three-quarters
+of an hour, then steamer to <placeName>Lugano</placeName> in two-and-
 three-quarter hours.</p></div>
 
 <div><head>SWITZERLAND</head>
 
-<p>Switzerland, the heart of Europe, has been
+<p><placeName>Switzerland</placeName>, the heart of Europe, has been
 described as "A cluster of delights and
 grandeurs."</p>
 
-<p>LUGANO is some 20 miles from Como and
+<p><placeName>LUGANO</placeName> is some 20 miles from <placeName>Como</placeName> and
 reached by train in one-and-a-half- hours. It has
 a population of 10,000 people and is charm-
-ingly situated on the Lake of Lugano, amidst
-lovely Italian scenery. Around it rise M. San
-Salvatore, M. de Caprino and M. Generoso.</p>
+ingly situated on the <placeName>Lake of Lugano</placeName>, amidst
+lovely Italian scenery. Around it rise <placeName>M. San
+Salvatore</placeName>, <placeName>M. de Caprino</placeName> and <placeName>M. Generoso</placeName>.</p>
 
-<p>LOCARNO may be reached by rail from
-Bellinzona in forty minutes. This pretty town,
-situated at the top of Lake Maggiore, has a
+<p><placeName>LOCARNO</placeName> may be reached by rail from
+<placeName>Bellinzona</placeName> in forty minutes. This pretty town,
+situated at the top of <placeName>Lake Maggiore</placeName>, has a
 mild climate, and is an excellent winter resort.
-The church Madonna del Sasso, situated above
+The church <placeName>Madonna del Sasso</placeName>, situated above
 the town, is worth a visit, as it contains interest-
-ing paintings, "Entombment," by Ciseri, and
-"The Flight into Egypt" by Bramantion.</p>
+ing paintings, "Entombment," by <persName>Ciseri</persName>, and
+"The Flight into Egypt" by <persName>Bramantion</persName>.</p>
 
-<p>LUCERNE- A striking picture on the Lake
-of Lucerne facing the Rigi and Pilatus and
-the snow-clad Alps.</p>
+<p><placeName>LUCERNE</placeName>- A striking picture on the <placeName>Lake
+of Lucerne</placeName> facing the <placeName>Rigi</placeName> and <placeName>Pilatus</placeName> and
+the snow-clad <placeName>Alps</placeName>.</p>
 
 <p>In and around the town the walks are
 charming, and the excursions to be made from
-Lucerne by boat, rail, etc., are very numerous.</p>
+<placeName>Lucerne</placeName> by boat, rail, etc., are very numerous.</p>
 
-<p>The Lake of Lucerne abounds in delightful
-excursions, those to the Rigi, Pilatus, Burgen-
-stock and Sonnenberg needing a special visit
+<p>The <placeName>Lake of Lucerne</placeName> abounds in delightful
+excursions, those to the <placeName>Rigi</placeName>, <placeName>Pilatus</placeName>, <placeName>Burgen-
+stock</placeName> and <placeName>Sonnenberg</placeName> needing a special visit
 each. Other excursions on the lake can be
 made by steamer, and the ever-changing
-scenery on the trip from Lucerne to Fluelen is
+scenery on the trip from <placeName>Lucerne</placeName> to <placeName>Fluelen</placeName> is
 a source of delight to the lover of nature.</p>
 
-<p>BRUNNEN, charmingly situated on the
-most beautiful part of the Lake of Lucerne,
+<p><placeName>BRUNNEN</placeName>, charmingly situated on the
+most beautiful part of the <placeName>Lake of Lucerne</placeName>,
 commands magnificent views of lake and
-mountain scenery. Along the Lake of Uri
-from Brunnen to Fluelen runs the famous
-Axentrasse.</p>
+mountain scenery. Along the <placeName>Lake of Uri</placeName>
+from <placeName>Brunnen</placeName> to <placeName>Fluelen</placeName> runs the famous
+<placeName>Axentrasse</placeName>.</p>
 
 <p>A delightful excursion from Lucerne is
-that to ENGELBERG. Take boat to Stansstad
-and from Stansstad it is about 1 hour and
+that to <placeName>ENGELBERG</placeName>. Take boat to <placeName>Stansstad</placeName>
+and from <placeName>Stansstad</placeName> it is about 1 hour and
 40 min. by Electric Railway, with delightful
-scenery en route. The ascent of Titlis is
+scenery en route. The ascent of <placeName>Titlis</placeName> is
 made from here, and the panoramic view of
-the Alps is grand; extending from Monte
-Rosa to the Black Forest, and from the
-Santis to the Matterhous.</p>
+the <placeName>Alps</placeName> is grand; extending from <placeName>Monte
+Rosa</placeName> to the <placeName>Black Forest</placeName>, and from the
+<placeName>Santis</placeName> to the <placeName>Matterhous</placeName>.</p>
 
-<p>THE BERNESE OBERLAND-INTER-
-LAKEN a favourite summer resort and the best
-centre for making excursions in the Oberland,
+<p><placeName>THE BERNESE OBERLAND-INTER-
+LAKEN</placeName> a favourite summer resort and the best
+centre for making excursions in the <placeName>Oberland</placeName>,
 abounding in fine walks and views. There is
-a magnificent view of the Jungfrau from the
-Hoheweg, a fine avenue of walnut trees the
-chief resort of visitors. Interlaken is also not
-far from the famous waterfalls, Giessbach,
-Trummelbach, and Staubbach. Then also the
-glaciers of Grindelwald and view from Murren
-and the Schynige Platte are sights not to be
+a magnificent view of the <placeName>Jungfrau</placeName> from the
+<placeName>Hoheweg</placeName>, a fine avenue of walnut trees the
+chief resort of visitors. <placeName>Interlaken</placeName> is also not
+far from the famous waterfalls, <placeName>Giessbach</placeName>,
+<placeName>Trummelbach</placeName>, and <placeName>Staubbach</placeName>. Then also the
+glaciers of <placeName>Grindelwald</placeName> and view from <placeName>Murren</placeName>
+and the <placeName>Schynige Platte</placeName> are sights not to be
 missed.</p>
 
-<p>Chateau D'Oex. 3500 ft. above the sea
-on the new Electric Railway between Montreaux
-and Interlaken, surrounded by magnificent
+<p><placeName>Chateau D'Oex</placeName>. 3500 ft. above the sea
+on the new Electric Railway between <placeName>Montreaux</placeName>
+and <placeName>Interlaken</placeName>, surrounded by magnificent
 scenery, with pure dry air. Much frequented
 by English people in Summer and Winter.</p></div>
 
 <div><head>GREEK AND IONIAN ISLES</head>
-<p>Many people visit Greece after wintering
-in Egypt, as it is so easily reached from Alex-
-andria; the climate in April is charming. The
+<p>Many people visit <placeName>Greece</placeName> after wintering
+in Egypt, as it is so easily reached from <placeName>Alex-
+andria</placeName>; the climate in April is charming. The
 best steamers are those of the Khedivial Mail
 Co. and the Russian Steam Navigation Co.</p>
 
 <p>If possible tourists should arrange to be in
-Athens for the Orthodox Easter in order to
+<placeName>Athens</placeName> for the Orthodox Easter in order to
 witness the Good Friday and Easter Eve
 ceremonies, and to be present at the dancing
-on the Easter Tuesday festival held at Megara
-for which a special train is run from Athens.</p>
+on the Easter Tuesday festival held at <placeName>Megara</placeName>
+for which a special train is run from <placeName>Athens</placeName>.</p>
 
 <p>It is worth while to spend a few days in
-CORPU on account of the beauty of the
+<placeName>CORPU</placeName> on account of the beauty of the
 scenery. There is also good snipe and quail
 shooting to be had.</p>
 
